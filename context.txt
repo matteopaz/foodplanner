@@ -1,0 +1,37 @@
+Project: FoodPlanner (Vite + React SPA)
+
+Mission
+- Camper-friendly meal planner styled like a curated travel cookbook.
+- Works fully client-side; persist recipes + meal plans via localStorage.
+
+Core Features
+- Recipe import from JSON (supports array payloads, string or list ingredients).
+- Auto-seeds with `assets/vanlifecookbook.json` on first run if storage empty.
+- Calendar planner: per-meal slots (breakfast/lunch/dinner/snack) with overlay picker, remove buttons.
+- Overview view: date-range shopping list (clipboard copy), itinerary, and recipe booklet; PDF export present.
+- Recipe library: create/edit/duplicate/delete with textarea ingredients.
+
+UI Notes
+- Typography + palette emulate monochrome print; layout lives in `App.css`.
+- Meal picker modal limited to `50vh` with scrollable recipe list; overlay click closes.
+
+Key Files
+- `src/App.tsx` — main UI, state, import validation, seeding.
+- `src/utils.ts` — date helpers, ingredient parsing, ID generation.
+- `src/types.ts` — shared types (`RawImportedRecipe`, `ImportedRecipe`, etc.).
+- `src/assets/vanlifecookbook.json` — default recipe seed data (already populated).
+- `src/hooks/useLocalStorage.ts` — persisted state hook.
+
+State & Persistence
+- Storage keys: `foodplanner.recipes.v1`, `foodplanner.plan.v1`, seed flag `foodplanner.seeded.vanlife`.
+- Clearing localStorage resets planner; seeding guard avoids duplicate loads.
+
+Build & Tooling
+- `npm install`, `npm run dev`, `npm run build`.
+- Build succeeds but Vite warns Node 20.12.2 < recommended 20.19+ (upgrade when possible).
+- No automated tests yet; candidates: ingredient parser & plan output utilities, picker interactions.
+
+Outstanding Considerations
+- Clipboard helper falls back to `document.execCommand` on older browsers.
+- When updating recipe import format, keep `normalizeImportedIngredients` aligned with `parseIngredientDetails`.
+- Visual QA previously guided via Playwright MCP; rerun if layout shifts.
