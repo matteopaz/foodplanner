@@ -2,591 +2,675 @@
   "recipes": [
     {
       "name": "Vegetarian Breakfast Burritos",
-      "prep_time": "15 min.",
-      "ingredients": "4",
-      "meal": "breakfast",
-      "instructions": "2 Potatoes\n8 eggs\n2 tbsp milk\n1/3 cup diced onions\n1/3 cup mushrooms\n1/3 cup diced bell peppers\n2 garlic cloves\n1 tbsp Extra Virgin Olive Oil\nAny seasonings you might have (we use\na dash of Cumin and a dash of Red\nPepper/Paprika, pepper, salt)\nFavorite cheese and salsa\nTortillas\n\nHeat olive oil over medium/low heat, add garlic and\nchopped potatoes. Make sure all potatoes are coated in\nolive oil, and add desired seasonings. Stir fry diced\npotatoes until tender (or browned if you prefer crunchier\npotatoes). Add veggies to potatoes and stir fry for an\nadditional 5 min., until veggies are cooked. Once cooked,\nset the mix aside. In a bowl, whisk together 8 eggs with 2\ntbsp milk until combined. Using the same frying pan, cook\nthe eggs. Mix eggs and potatoes together in Tupperware.\n\nOptional Burrito Fillers/Garnishes:\n-veggie proteins (we use soy chorizo or\ncrumbled meatless protein)\n-sour cream\n-black beans/veg. pinto beans\n\nTip: Burritos can stay in the cooler wrapped in foil for about\n3 days. Remove burrito from foil and warm on a medium\nskillet for about 10 minutes!"
+      "prep time": "15 min.",
+      "ingredients": "2 Potatoes\n8 eggs\n2 tbsp milk\n1/3 cup diced onions\n1/3 cup mushrooms\n1/3 cup diced bell peppers\n2 garlic cloves\n1 tbsp Extra Virgin Olive Oil\nAny seasonings you might have (we use a dash of Cumin and a dash of Red Pepper/Paprika, pepper, salt)\nFavorite cheese and salsa\nTortillas\nOptional Burrito Fillers/Garnishes:\n-veggie proteins (we use soy chorizo or crumbled meatless protein)\n-sour cream\n-black beans/veg. pinto beans",
+      "instructions": "Heat olive oil over medium/low heat, add garlic and chopped potatoes. Make sure all potatoes are coated in olive oil, and add desired seasonings. Stir fry diced potatoes until tender (or browned if you prefer crunchier potatoes). Add veggies to potatoes and stir fry for an additional 5 min., until veggies are cooked. Once cooked, set the mix aside. In a bowl, whisk together 8 eggs with 2 tbsp milk until combined. Using the same frying pan, cook the eggs. Mix eggs and potatoes together in Tupperware.\nTIP: Burritos can stay in the cooler wrapped in foil for about 3 days. Remove burrito from foil and warm on a medium skillet for about 10 minutes!",
+      "servings": "4",
+      "meal": "Breakfast"
     },
     {
       "name": "Tofu Scramble B-fast Burritos",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "breakfast",
-      "instructions": "DIY tofu press: Cut tofu in two slim halves, place side by side on a folded\npaper towel on top of cutting board, cover with another folded paper towel,\na board, and something heavy ( i.e.. a few books). Sit for 5 minutes to\npress out tofu water.\nMeanwhile: dice onion, bell pepper, tomato, additional veggies. Sauté\nveggies until browned.\nOnce paper towels have soaked, dice tofu into cubes and add to skillet.\nAdd 1-3 tbsp of turmeric right after tofu is on top of veggies (to be mixed\ninto tofu, not veggies)\nMash tofu into smaller crumbles to mix in turmeric, add 1-2 tbsp of\nnutritional yeast, additional turmeric and/or curry powder for taste (tofu\nshould turn deep golden yellow when mixed)\nStir tofu in with veggies for 3-5 minutes. Add salt/pepper to taste, then\nhandful of spinach (cut).\nWhen properly \"scrambled,\" dump contents into bowl, serve with tortillas\nfor amazing nutritional breakfast burritos\nTip: I love this easy vegan version of the traditional egg-based breakfast\nburrito, and much more nutritious. It's fun to dice and sauté a sweet potato\nto add with some barbecue sauce for the extra nutrition. Can easily be\nadjusted for \"Mexican style\" with beans, guac, and salsa or \"Indian style\"\nwith rice and extra curry flavors!\n5"
+      "prep time": "10 min.",
+      "ingredients": "1 block firm tofu\n1 sweet onion\n1 bell pepper (any color)\nTomato (1 beef, or handful grapes)\nHandful of spinach\nTortillas\nOlive oil\nTurmeric powder\nNutritional yeast powder\nSalt/pepper\nOptional: jalapeño, mushrooms, curry powder",
+      "instructions": "DIY tofu press: Cut tofu in two slim halves, place side by side on a folded paper towel on top of cutting board, cover with another folded paper towel, a board, and something heavy ( i.e.. a few books). Sit for 5 minutes to press out tofu water. Meanwhile: dice onion, bell pepper, tomato, additional veggies. Sauté veggies until browned. Once paper towels have soaked, dice tofu into cubes and add to skillet. Add 1-3 tbsp of turmeric right after tofu is on top of veggies (to be mixed into tofu, not veggies). Mash tofu into smaller crumbles to mix in turmeric, add 1-2 tbsp of nutritional yeast, additional turmeric and/or curry powder for taste (tofu should turn deep golden yellow when mixed). Stir tofu in with veggies for 3-5 minutes. Add salt/pepper to taste, then handful of spinach (cut). When properly \"scrambled,\" dump contents into bowl, serve with tortillas for amazing nutritional breakfast burritos.\nTIP: I love this easy vegan version of the traditional egg-based breakfast burrito, and much more nutritious. It s fun to dice and sauté a sweet potato to add with some barbecue sauce for the extra nutrition. Can easily be adjusted for \"Mexican style\" with beans, guac, and salsa or \"Indian style\" with rice and extra curry flavors!",
+      "servings": "2",
+      "meal": "Breakfast"
     },
     {
       "name": "Chorizo Breakfast Burrito",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "breakfast",
-      "instructions": "Cook chorizo in skillet until done (similar to ground\nhamburger meat). Cover with plate to keep warm.\n\n1 lb. chorizo\n6 eggs\n4 large flour tortillas\nOptional:\nMilk (optional for scrambling eggs)\nAvocado\nHot sauce or salsa of choice\n\nWhisk eggs (include a dash of milk for fluffiness if\npreferred). Scramble in separate frying pan.\nLayer chorizo, scrambled eggs and any toppings you\nprefer. Fold each end of tortilla inward then fold one side\nover the other to wrap.\n\nTip: Wrap tortilla tightly if eating by hand to prevent\nspillage. Chorizo can be substituted with bacon.\nEggs can be scrambled in same pan with cooked chorizo,\nbut be mindful of grease. Some chorizo is very greasy."
+      "prep time": "5 min.",
+      "ingredients": "1 lb. chorizo\n6 eggs\n4 large flour tortillas\nOptional:\nMilk (optional for scrambling eggs)\nAvocado\nHot sauce or salsa of choice",
+      "instructions": "Cook chorizo in skillet until done (similar to ground hamburger meat). Cover with plate to keep warm. Whisk eggs (include a dash of milk for fluffiness if preferred). Scramble in separate frying pan. Layer chorizo, scrambled eggs and any toppings you prefer. Fold each end of tortilla inward then fold one side over the other to wrap.\nTIP: Wrap tortilla tightly if eating by hand to prevent spillage. Chorizo can be substituted with bacon. Eggs can be scrambled in same pan with cooked chorizo, but be mindful of grease. Some chorizo is very greasy.",
+      "servings": "4",
+      "meal": "Breakfast"
     },
     {
       "name": "Best Breakfast Burritos",
-      "prep_time": "11 min.",
-      "ingredients": "4",
-      "meal": "breakfast",
-      "instructions": "8 eggs\nProtein of choice (meat or tofu)\n1/2 cup cheese\n1/2 bell pepper\n1/2 onion\n1 potato\ntortillas\n2 tbsp extra virgin olive oil\nSalt and Pepper\n\nCoat your pan with olive oil and heat over medium heat.\nDice up potatoes to desired size and add to warm pan.\nSeason potatoes to taste and sauté for about 10 min. Dice\nup veggies and add to potatoes, sauté for an additional 10\nmin., until potatoes are crisp and tender. Set mixture aside.\nUsing the same pan, cook eggs and desired protein,\nseasoned with salt and pepper. Combine the potato mixture\nwith eggs/protein. Lay out 2-4 tortillas and garnish with your\nchoice of toppings. We like to layer salsa, followed by\nguacamole, egg and potato mixture. Cheese goes on last to\nensure that melty goodness! Wrap up and enjoy this protein\npacked breakfast!\n\nOptional:\nSalsa, black beans, guacamole,\nwhatever you have on hand to toss in\nis great!\n\nTip: This recipe makes 4 good sized burritos. Often times\nwe will make all 4 at once and wrap up 2 to keep in the\ncooler. These burritos are great fuel for our mountain bike\nand hiking trips and taste great as an on trail snack, lunch\nor dinner!\n6"
+      "prep time": "11 min.",
+      "ingredients": "8 eggs\nProtein of choice (meat or tofu)\n1/2 cup cheese\n1/2 bell pepper\n1/2 onion\n1 potato\ntortillas\n2 tbsp extra virgin olive oil\nSalt and Pepper\nOptional:\nSalsa, black beans, guacamole, whatever you have on hand to toss in is great!",
+      "instructions": "Coat your pan with olive oil and heat over medium heat. Dice up potatoes to desired size and add to warm pan. Season potatoes to taste and sauté for about 10 min. Dice up veggies and add to potatoes, sauté for an additional 10 min., until potatoes are crisp and tender. Set mixture aside. Using the same pan, cook eggs and desired protein, seasoned with salt and pepper. Combine the potato mixture with eggs/protein. Lay out 2-4 tortillas and garnish with your choice of toppings. We like to layer salsa, followed by guacamole, egg and potato mixture. Cheese goes on last to ensure that melty goodness! Wrap up and enjoy this protein packed breakfast!\nTIP: This recipe makes 4 good sized burritos. Often times we will make all 4 at once and wrap up 2 to keep in the cooler. These burritos are great fuel for our mountain bike and hiking trips and taste great as an on trail snack, lunch or dinner!",
+      "servings": "4",
+      "meal": "Breakfast"
     },
     {
       "name": "Smoky Beans & Bacon",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "breakfast",
-      "instructions": "Trim ribs off bacon and cut into 2cm pieces. Fry in pot until\nbrown and crisp. Remove and set aside, leave fat in pot.\nAdd everything else, except the sugar. Simmer for 15 min\non a low heat until thick and yummy.\nDilute with extra water/ passata if too thick.\nAdd the bacon back, sugar and stir. Season to taste...\nTip: Serve over crusty bread or a baked potato for a hearty\ndinner..."
+      "prep time": "5 min.",
+      "ingredients": "4 rashers bacon\n2 tins beans (any type you like)\n1 tsp smoked paprika\n2 tbsp tomato paste\n1 tin tomato passata/purée\n1 tsp English mustard powder\nDash of your favorite chili sauce\nDash of HP/Worcestershire sauce\n3 tbsp maple syrup or treacle sugar",
+      "instructions": "Trim ribs off bacon and cut into 2cm pieces. Fry in pot until brown and crisp. Remove and set aside, leave fat in pot. Add everything else, except the sugar. Simmer for 15 min on a low heat until thick and yummy. Dilute with extra water/ passata if too thick. Add the bacon back, sugar and stir. Season to taste...\nTIP: Serve over crusty bread or a baked potato for a hearty dinner...",
+      "servings": "4",
+      "meal": "Breakfast"
     },
     {
       "name": "Granola Bars",
-      "prep_time": "10 min.",
-      "ingredients": "6",
-      "meal": "breakfast",
-      "instructions": "Heat cast iron fry pan on camp stove over medium-low heat\n(or preheat oven to 350F, if available). Mix sugar, oil & eggs\nin large bowl with spoon until smooth. Add all other\ningredients, fold to mix. Spread with spatula into pan. If\ncooking over camp stove, cover pan with lid. Bake just until\ncenter is set but not firm, about 17-22 minutes. If cooking\nover camp stove, flip the granola over about half way\nthrough to prevent burning.\nRemove from heat. Spread butter over granola while still\nhot and drizzle with honey. Let cool, then cut into bars and\nstore in sealed container.\n\n1/4 cup honey\n2 tbsp butter\n7"
+      "prep time": "10 min.",
+      "ingredients": "1/2 cup brown sugar\n1/2 cup vegetable oil\n1 egg\n1 cup quick or regular oats\n3/4 cup flour (wheat or white)\n1/2 cup raisins\n1/2 cup chopped walnuts (optional)\n1/2 cup flaked coconut (optional)\n1 tsp cinnamon\n1/2 tsp ground cloves (optional)\n1/2 tsp baking soda\nPinch of salt\n1/4 cup honey\n2 tbsp butter",
+      "instructions": "Heat cast iron fry pan on camp stove over medium-low heat (or preheat oven to 350F, if available). Mix sugar, oil & eggs in large bowl with spoon until smooth. Add all other ingredients, fold to mix. Spread with spatula into pan. If cooking over camp stove, cover pan with lid. Bake just until center is set but not firm, about 17-22 minutes. If cooking over camp stove, flip the granola over about half way through to prevent burning. Remove from heat. Spread butter over granola while still hot and drizzle with honey. Let cool, then cut into bars and store in sealed container.",
+      "servings": "6",
+      "meal": "Breakfast"
     },
     {
       "name": "10 Ingredient Oats",
-      "prep_time": "3 min",
-      "ingredients": "2",
-      "meal": "breakfast",
-      "instructions": "I can't believe how many people I've met who say they don't\nlike oats! It is such a cheap meal, filling, and tasty. We eat\noats every day in the van except for pancake days. The\ntrick is to switch it up every day with new and creative\ningredients. Seriously, just try anything. Add different\ncombinations and you will never be bored with this simple\nmeal. Simply cook oats and add some fun things!\nTip: If you cook quinoa as part of a dinner meal, set some\naside for breakfast the next day. Add it to your oats for an\nextra kick of protein."
+      "prep time": "3 min",
+      "ingredients": "Quick-cooking steel cut oats\nWater\nOptional Additions:\nBananas\nChia seeds\nHemp hearts\nHoney\nCoconut\nCinnamon\nApples\nBerries\nNutella\nChocolate\nNuts\nPeanut butter",
+      "instructions": "I can t believe how many people I ve met who say they don t like oats! It is such a cheap meal, filling, and tasty. We eat oats every day in the van except for pancake days. The trick is to switch it up every day with new and creative ingredients. Seriously, just try anything. Add different combinations and you will never be bored with this simple meal. Simply cook oats and add some fun things!\nTIP: If you cook quinoa as part of a dinner meal, set some aside for breakfast the next day. Add it to your oats for an extra kick of protein.",
+      "servings": "2",
+      "meal": "Breakfast"
     },
     {
       "name": "Farro w/ Mango & Coconut",
-      "prep_time": "5 min.",
-      "ingredients": "6",
-      "meal": "breakfast",
-      "instructions": "For the point in the trip when you can't even look at oatmeal\nwithout getting twitchy:\nMix coconut milk, farro, water, sugar in saucepan and heat\nuntil simmering, reduce heat to low and cook 30 minutes,\nstirring occasionally until all the liquid is absorbed and dish\nresembles a porridge. Remove from heat and add mangoenjoy!\nTip: Trader Joes has a quick cooking farro that makes this\neven easier-just replace water with coconut milk and follow\ntheir cook time instructions. I always load up on grains\n(*cough and boxed wine*) there when passing through a\nbigger city\n\n8"
+      "prep time": "5 min.",
+      "ingredients": "26 ounces coconut milk (2 cans)\n1.5 cups farro\n1 cup water\n1/4 cup brown sugar (or 1/8 cup maple syrup)\n2 mangos diced",
+      "instructions": "For the point in the trip when you can t even look at oatmeal without getting twitchy: Mix coconut milk, farro, water, sugar in saucepan and heat until simmering, reduce heat to low and cook 30 minutes, stirring occasionally until all the liquid is absorbed and dish resembles a porridge. Remove from heat and add mango-enjoy!\nTIP: Trader Joes has a quick cooking farro that makes this even easier-just replace water with coconut milk and follow their cook time instructions. I always load up on grains (*cough and boxed wine*) there when passing through a bigger city.",
+      "servings": "6",
+      "meal": "Breakfast"
     },
     {
       "name": "Buckwheat Griddle Cakes",
-      "prep_time": "12 min.",
-      "ingredients": "4",
-      "meal": "breakfast",
-      "instructions": "12-24 hours before cooking, mix Buckwheat Flour with Buttermilk in large\nbowl. For cakes high in acidity (which I love!), add in the Apple Cider\nVinegar. Let sit, covered with bandana, overnight. When you revisit your\nbatter, it should be bubbling just a little. This is a good thing- you've\ncaught natural yeasts from the air that are predigesting the flour for you!\nSeparate egg yolk from whites. Whisk egg whites until very stiff, but mix\nyolk gently. Add egg, butter, and honey to flour mixture. Add salt and\nbaking soda and mix, but not too much. It needs to be a little lumpy. Your\nbatter will seem very alive, and will double in size---again, normal!\nHeat griddle until a pat of butter sizzles at the touch. Lubricate pan\nliberally with butter or coconut oil. Pour on batter in four inch circles. Wait\nfor bubbles to appear on top, then flip. Time to chow down! Enjoy with\nplenty of butter and jam, syrup, or molasses, depending on what you can\nget locally.\nTip: When flipping griddle cakes, wait until you see bubbles popping in\nthe uncooked side before making the flip. Try to let as many bubbles as\npossible appear. Then, just before the majority of them pop, flip the cake.\nYou don't NEED the egg, but it really makes the batter hold together\nbetter."
+      "prep time": "12 min.",
+      "ingredients": "3 cups Organic Buckwheat Flour\n2 cups Grass-fed buttermilk or yoghurt\n1 tsp Apple Cider Vinegar (optional)\n3 tbsp honey, blackstrap molasses, or sorghum syrup\n3 tbsp pastured butter\n1 pastured egg\n1/2 tsp salt\n1 tsp baking soda",
+      "instructions": "12-24 hours before cooking, mix Buckwheat Flour with Buttermilk in large bowl. For cakes high in acidity (which I love!), add in the Apple Cider Vinegar. Let sit, covered with bandana, overnight. When you revisit your batter, it should be bubbling just a little. This is a good thing- you ve caught natural yeasts from the air that are predigesting the flour for you! Separate egg yolk from whites. Whisk egg whites until very stiff, but mix yolk gently. Add egg, butter, and honey to flour mixture. Add salt and baking soda and mix, but not too much. It needs to be a little lumpy. Your batter will seem very alive, and will double in size---again, normal! Heat griddle until a pat of butter sizzles at the touch. Lubricate pan liberally with butter or coconut oil. Pour on batter in four inch circles. Wait for bubbles to appear on top, then flip. Time to chow down! Enjoy with plenty of butter and jam, syrup, or molasses, depending on what you can get locally.\nTIP: When flipping griddle cakes, wait until you see bubbles popping in the uncooked side before making the flip. Try to let as many bubbles as possible appear. Then, just before the majority of them pop, flip the cake. You don t NEED the egg, but it really makes the batter hold together better.",
+      "servings": "4",
+      "meal": "Breakfast"
     },
     {
       "name": "Buckwheat Bowl",
-      "prep_time": "4 min.",
-      "ingredients": "4",
-      "meal": "breakfast",
-      "instructions": "Begin by toasting buckwheat groats in a skillet (or in the\nsaucepan you will use later) over medium heat, stirring\nfrequently to avoid burning. Toast until they begin to brown\nand smell nutty. Transfer into a saucepan and add water,\npinch of salt, and butter/coconut oil. Cover and bring to a\nboil, then reduce heat to a simmer for 15 minutes, until all\nwater is absorbed. (If you want a creamier porridge, add a\nlittle more than 2 cups of water). Serve portions and top\nwith fruit, chopped nuts, a drizzle of honey or butter.\nTip: If you want a heartier and creamier porridge, substitute\n1 cup of water with milk or coconut milk.\n\n9"
+      "prep time": "4 min.",
+      "ingredients": "1 cup buckwheat groats\n2 cups water\n2 bananas (or any other fruit on hand)\n2 tbsp butter or coconut oil\n1/2 cup walnuts (or any other nut/seed on hand)\nHoney\nSalt",
+      "instructions": "Begin by toasting buckwheat groats in a skillet (or in the saucepan you will use later) over medium heat, stirring frequently to avoid burning. Toast until they begin to brown and smell nutty. Transfer into a saucepan and add water, pinch of salt, and butter/coconut oil. Cover and bring to a boil, then reduce heat to a simmer for 15 minutes, until all water is absorbed. (If you want a creamier porridge, add a little more than 2 cups of water). Serve portions and top with fruit, chopped nuts, a drizzle of honey or butter.\nTIP: If you want a heartier and creamier porridge, substitute 1 cup of water with milk or coconut milk.",
+      "servings": "4",
+      "meal": "Breakfast"
     },
     {
       "name": "French Toast",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "breakfast",
-      "instructions": "Mix eggs, milk and cinnamon in a bowl/pot. Dip the bread\ninto the mix, allowing each side to soak in the egg mix.\nMelt butter in the pan. Place soaked bread onto pan,\nleaving it for 3-4 minutes on each side.\nTop with fruit, butter, syrup, sugar…you get it!"
+      "prep time": "5 min.",
+      "ingredients": "2 or 3 eggs\n1/2 cup milk (you can use thin yogurt as well)\nButter\nCinnamon\n6 slices of 1” thick bread",
+      "instructions": "Mix eggs, milk and cinnamon in a bowl/pot. Dip the bread into the mix, allowing each side to soak in the egg mix. Melt butter in the pan. Place soaked bread onto pan, leaving it for 3-4 minutes on each side. Top with fruit, butter, syrup, sugar…you get it!",
+      "servings": "2",
+      "meal": "Breakfast"
     },
     {
       "name": "Breakfast Sandwich",
-      "prep_time": "3 min.",
-      "ingredients": "1",
-      "meal": "breakfast",
-      "instructions": "Slice up and fry the onions, mushrooms and peppers. After they\nare sautéed to your liking set aside and fry the ham. (If you are\nusing a meat that takes a little bit longer, you should fry that up\nfirst and then fry the veggies). Once the meat is cooked to your\nliking, set it aside also.\nMeanwhile, we like to toast our bread by setting the 2nd stove top\nto as low a flame as possible, placing the bread on the grate over\nthe low flame.\n\nIn the same pan used for the veggies and meat, cook the eggs –\nwe like them over-easy. About a minute before the eggs are done,\nplace the cheese on top and cover the pan with a lid.\nOnce the eggs are done, cheese melted and bread toasted, put\nsome ketchup/butter/cream cheese (don’t knock it until you try it)\non the bread, then the egg and top it off with the sautéed veggies\nand meat, adding avocado/salt/pepper and anything else that\ncomes to mind!\nTip: This is one of our favorite breakfast foods. It’s quick and very\nflexible – you can be as creative or simple as you like, it’s filing\nand delicious.\n10"
+      "prep time": "3 min.",
+      "ingredients": "Bread (We like rolls or a bagels)\nButter\nEggs\nOptional:\nOnions\nMushrooms\nRed peppers\nAvocado\nHam/Bacon/sausage\nTomatoes\nCheese\nCream cheese",
+      "instructions": "Slice up and fry the onions, mushrooms and peppers. After they are sautéed to your liking set aside and fry the ham. (If you are using a meat that takes a little bit longer, you should fry that up first and then fry the veggies). Once the meat is cooked to your liking, set it aside also. Meanwhile, we like to toast our bread by setting the 2nd stove top to as low a flame as possible, placing the bread on the grate over the low flame. In the same pan used for the veggies and meat, cook the eggs – we like them over-easy. About a minute before the eggs are done, place the cheese on top and cover the pan with a lid. Once the eggs are done, cheese melted and bread toasted, put some ketchup/butter/cream cheese (don t knock it until you try it) on the bread, then the egg and top it off with the sautéed veggies and meat, adding avocado/salt/pepper and anything else that comes to mind!\nTIP: This is one of our favorite breakfast foods. It s quick and very flexible – you can be as creative or simple as you like, it s filing and delicious.",
+      "servings": "1",
+      "meal": "Breakfast"
     },
     {
       "name": "Huevos Rancheros",
-      "prep_time": "5 min.",
-      "ingredients": "1",
-      "meal": "breakfast",
-      "instructions": "Sauté onions in a pan. Once they are done to your liking, add the\nrefried beans and mix with onions until all is warm. Set aside.\n\nTortillas\nEggs\nSour Cream\nOnions\nCheese\nAvocado\nTomatoes\nRefried Beans\nHot sauce\nCilantro\n\nIn the same pan as you made the onions and refried beans, make\neggs to your liking – we like them over easy.\nIn another pan, melt butter and fry up tortillas, about 1 minute\neach side.\nOnce the eggs are done and the tortillas are toasted, put the\nrefried beans with onions on the tortilla, put the egg on top and\ntop off with slices of avocado, tomato, sour cream, cream cheese,\nhot sauce and cilantro!\nTip: You can substitute refried beans with black beans. Or add\nrice. Get creative – you won’t be sorry (hopefully.)"
+      "prep time": "5 min.",
+      "ingredients": "Tortillas\nEggs\nSour Cream\nOnions\nCheese\nAvocado\nTomatoes\nRefried Beans\nHot sauce\nCilantro",
+      "instructions": "Sauté onions in a pan. Once they are done to your liking, add the refried beans and mix with onions until all is warm. Set aside. In the same pan as you made the onions and refried beans, make eggs to your liking – we like them over easy. In another pan, melt butter and fry up tortillas, about 1 minute each side. Once the eggs are done and the tortillas are toasted, put the refried beans with onions on the tortilla, put the egg on top and top off with slices of avocado, tomato, sour cream, cream cheese, hot sauce and cilantro!\nTIP: You can substitute refried beans with black beans. Or add rice. Get creative – you won t be sorry (hopefully.)",
+      "servings": "1",
+      "meal": "Breakfast"
     },
     {
       "name": "Avocado Spread",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "breakfast",
-      "instructions": "Scoop out ripe avocados into a bowl. You want them to be\nvery ripe and soft in order to easily mash them up. Add the\nolive oil to the avocado. We like it more on the creamy side\nbut you can mash it up as much as you like. Finely chop the\ngarlic clove and add it in, mix well. Add lemon juice, salt\nand pepper to taste. Spread on bread and enjoy!\n\n11"
+      "prep time": "10 min.",
+      "ingredients": "2 ripe avocados\n2 tsp olive oil\n1 garlic clove\n1/2 Lemon\nSalt and Pepper\nBread",
+      "instructions": "Scoop out ripe avocados into a bowl. You want them to be very ripe and soft in order to easily mash them up. Add the olive oil to the avocado. We like it more on the creamy side but you can mash it up as much as you like. Finely chop the garlic clove and add it in, mix well. Add lemon juice, salt and pepper to taste. Spread on bread and enjoy!",
+      "servings": "2",
+      "meal": "Breakfast"
     },
     {
       "name": "Colombian Eggs",
-      "prep_time": "4 min.",
-      "ingredients": "2",
-      "meal": "breakfast",
-      "instructions": "Slice tomatoes in ¼” slices and the garlic into thin slices.\nWe like medium sized tomatoes (Roma size) with lots of\nflavor.\n\n4 eggs\n1 small tomato\n1 garlic clove\nSalt and Pepper\nOlive oil\nBread\n\nHeat up olive oil in pan and put tomatoes in, about 2\nminutes on each side until tomatoes are soft. Add the garlic,\nallowing some pieces of garlic to lay on the tomatoes and\nothers to lay directly on the pan. After another 2 minutes,\nbefore the garlic starts to burn, break the eggs into the pan,\none egg in each ¼ of the pan. Cover with lid and let cook on\nlow heat for 5 minutes.\nServe with bread."
+      "prep time": "4 min.",
+      "ingredients": "4 eggs\n1 small tomato\n1 garlic clove\nSalt and Pepper\nOlive oil\nBread",
+      "instructions": "Slice tomatoes in ¼” slices and the garlic into thin slices. We like medium sized tomatoes (Roma size) with lots of flavor. Heat up olive oil in pan and put tomatoes in, about 2 minutes on each side until tomatoes are soft. Add the garlic, allowing some pieces of garlic to lay on the tomatoes and others to lay directly on the pan. After another 2 minutes, before the garlic starts to burn, break the eggs into the pan, one egg in each ¼ of the pan. Cover with lid and let cook on low heat for 5 minutes. Serve with bread.",
+      "servings": "2",
+      "meal": "Breakfast"
     },
     {
       "name": "Fried Zucchini",
-      "prep_time": "2 min.",
-      "ingredients": "2",
-      "meal": "breakfast",
-      "instructions": "Slice zucchini into 1/4” thick pieces. Melt butter in pan and\nadd zucchini, allowing about 4 minutes each side of the\nzucchini over medium high heat. If you’re using cheese,\nsprinkle cheese over the zucchini, letting it melt a little. If\nusing cottage cheese, remove zucchini from pan, put on\nplate and place cottage cheese over the zucchini. Add salt\nand pepper to taste.\n\n12"
+      "prep time": "2 min.",
+      "ingredients": "1 large zucchini\n1 cup Shredded cheese or Cottage Cheese\nButter",
+      "instructions": "Slice zucchini into 1/4” thick pieces. Melt butter in pan and add zucchini, allowing about 4 minutes each side of the zucchini over medium high heat. If you re using cheese, sprinkle cheese over the zucchini, letting it melt a little. If using cottage cheese, remove zucchini from pan, put on plate and place cottage cheese over the zucchini. Add salt and pepper to taste.",
+      "servings": "2",
+      "meal": "Breakfast"
     },
     {
       "name": "Breakfast Potatoes",
-      "prep_time": "4 min.",
-      "ingredients": "2",
-      "meal": "breakfast",
-      "instructions": "Slice potato in half length wise. Then again cut each half\ninto thin, half moon shapes – maybe 1/8”-1/4” thick slices.\nMelt butter in pan. Add potatoes, mixing frequently so they\ndon’t burn. Depending on your pan size and how much\ncontact with the pan each potato has, cook until the\npotatoes are golden brown and cooked through, about 10\nminutes.\nAdd salt, pepper ketchup.\n\nTip: You can also break eggs onto the potatoes and\nscramble the eggs directly with the fried potatoes."
+      "prep time": "4 min.",
+      "ingredients": "2 potatoes\nButter\nSalt, Pepper and ketchup",
+      "instructions": "Slice potato in half length wise. Then again cut each half into thin, half moon shapes – maybe 1/8”-1/4” thick slices. Melt butter in pan. Add potatoes, mixing frequently so they don t burn. Depending on your pan size and how much contact with the pan each potato has, cook until the potatoes are golden brown and cooked through, about 10 minutes. Add salt, pepper ketchup.\nTIP: You can also break eggs onto the potatoes and scramble the eggs directly with the fried potatoes.",
+      "servings": "2",
+      "meal": "Breakfast"
     },
     {
       "name": "Pancakes",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "breakfast",
-      "instructions": "In a large bowl, mix together the flour, baking powder, salt\nand sugar. Pour in the milk or yogurt, egg and oil; mix until\nsmooth.\nHeat a lightly oiled pan over medium high heat. Pour or\nscoop the batter onto the pan, using approximately 1/4 cup\nfor each pancake. Brown on both sides and serve hot with\nsyrup, butter, sugar, fruit – really anything!\n\n13"
+      "prep time": "5 min.",
+      "ingredients": "1 ½ cups flour\n1 ¼ cup milk or thin yogurt\n2 tsp baking powder\n2 tsp oil (olive oil is fine)\n1 egg\nSugar",
+      "instructions": "In a large bowl, mix together the flour, baking powder, salt and sugar. Pour in the milk or yogurt, egg and oil; mix until smooth. Heat a lightly oiled pan over medium high heat. Pour or scoop the batter onto the pan, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot with syrup, butter, sugar, fruit – really anything!",
+      "servings": "2",
+      "meal": "Breakfast"
     },
     {
       "name": "Rice Omelet",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "breakfast",
-      "instructions": "If we have left over rice from dinner the night before, we\nlove to make this omelet with rice.\nIn a pan, warm up some oil, adding a generous amount of\nrice. It’s best if you are able to cover the entire bottom of the\npan with rice. Fry up the rice for about 2-4 minutes until\nwarm and a little crispy. Once done, break eggs over the\nrice, mixing in the eggs and cook until desired runny-ness.\n\nSalt and pepper to taste.\nTip: Can add some sautéed veggies in the beginning. Also,\nsubstitute rice with last nights left over pasta."
+      "prep time": "5 min.",
+      "ingredients": "Rice from the night before\nEggs\nOlive oil\nSalt and Pepper\nZucchini/Ham/Red Peppers (Optional)",
+      "instructions": "If we have left over rice from dinner the night before, we love to make this omelet with rice. In a pan, warm up some oil, adding a generous amount of rice. It s best if you are able to cover the entire bottom of the pan with rice. Fry up the rice for about 2-4 minutes until warm and a little crispy. Once done, break eggs over the rice, mixing in the eggs and cook until desired runny-ness. Salt and pepper to taste.\nTIP: Can add some sautéed veggies in the beginning. Also, substitute rice with last nights left over pasta.",
+      "servings": "2",
+      "meal": "Breakfast"
     },
     {
       "name": "Eggy Quesadilla",
-      "prep_time": "2 min.",
-      "ingredients": "1",
-      "meal": "breakfast",
-      "instructions": "Crack an egg in the pan. Immediately throw a tortilla on top.\nSquish the egg with the tortilla so the yolk breaks. As it\ncooks, the egg and tortilla will adhere together. When egg is\ncooked, flip it over. Add cheese, avocado, leftover meat\nfrom dinner, salsa, etc. Fold your tortilla in half. Eat it. No\nmess in pan!!\n\n14"
+      "prep time": "2 min.",
+      "ingredients": "Egg\nTortilla\nCheese\nAvocado\nSalsa\nLeftover meat",
+      "instructions": "Crack an egg in the pan. Immediately throw a tortilla on top. Squish the egg with the tortilla so the yolk breaks. As it cooks, the egg and tortilla will adhere together. When egg is cooked, flip it over. Add cheese, avocado, leftover meat from dinner, salsa, etc. Fold your tortilla in half. Eat it. No mess in pan!!",
+      "servings": "1",
+      "meal": "Breakfast"
     },
     {
       "name": "Bean, Kale, & Kielbasa Stew",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Chop onion, mince garlic, and slice kielbasa (into quarter\ninch rounds or however you fancy). Sauté onion in medium\nsized sauce pan until translucent, add garlic and cook for\ntwo minutes. Add kielbasa and spices and sauté until\nbrown, about 3 minutes, toss in the drained and rinsed\nwhite beans and the can of tomatoes and simmer with salt\nand pepper to taste for about 15 minutes. Throw about two\ncups chopped kale or spinach on top of stew and simmer\ntwo more minutes-they'll come out lightly steamed like this.\nAnd enjoy!\nTip: Spice wise get creative, this does well with any blend\nso don't be put off if you're missing something."
+      "prep time": "5 min.",
+      "ingredients": "Kielbasa\nWhite onion\nGarlic\nKale (or spinach)\nlarge can of diced tomatoes\nOlive oil\nCan of white beans (cannellini are my favs, make sure to rinse)\nSalt and Pepper\n1 tsp paprika\n1 tsp red chili flakes\nFresh rosemary or thyme (Optional)",
+      "instructions": "Chop onion, mince garlic, and slice kielbasa (into quarter inch rounds or however you fancy). Sauté onion in medium sized sauce pan until translucent, add garlic and cook for two minutes. Add kielbasa and spices and sauté until brown, about 3 minutes, toss in the drained and rinsed white beans and the can of tomatoes and simmer with salt and pepper to taste for about 15 minutes. Throw about two cups chopped kale or spinach on top of stew and simmer two more minutes-they ll come out lightly steamed like this. And enjoy!\nTIP: Spice wise get creative, this does well with any blend so don t be put off if you re missing something.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Tortilla Pizza",
-      "prep_time": "10 min.",
-      "ingredients": "1",
-      "meal": "dinner",
-      "instructions": "Start by prepping all your ingredients. You'll want to chop up small\namounts of everything you want on your pizza. Put your tortilla in\na pan. Add sauce. Add cheese. Add toppings. Now, create a\npizza oven by inverting a pot on top of your pan. Turn your stove\non very low heat. Now be patient! Your tortilla will start to crisp up\nand your oven will fill with steam, which will melt your cheese and\ncook your toppings. (If you are using raw meat, you will want to\nprecook that). You will know your pizza is done when the cheese\nis melted and the tortilla is crisped to a point where you can pick it\nup and eat it like a traditional pizza.\nTip: You really have to keep the heat low and be patient in order\nto have optimal pizza cooking conditions. Don't burn the bottom of\nyour tortilla by turning the heat too high! If you have two pots and\ntwo pans you can cook two pizzas at once. We only have one pot\nbig enough to create the oven, so we split the first pizza and eat it\nwhile the second pizza is cooking, then split the second pizza.\nYou can also use regular pizza dough - you will first want to sort\nof fry one side, then flip it over. Add the toppings to the precooked side and then cook as you would the tortilla pizza. If your\ntoppings aren't getting enough steam, through a bit of water in the\nside of the pan, then cover it back up. This will add extra steam\nand help melt your cheese and cook your toppings.\n16"
+      "prep time": "10 min.",
+      "ingredients": "Tortillas\nPasta sauce\nCheese\nOptional:\nWhatever you like on your pizza!\nWe usually have:\nMushrooms\nOnion\nGarlic\nBell pepper\nSpinach\nGoat cheese",
+      "instructions": "Start by prepping all your ingredients. You ll want to chop up small amounts of everything you want on your pizza. Put your tortilla in a pan. Add sauce. Add cheese. Add toppings. Now, create a pizza oven by inverting a pot on top of your pan. Turn your stove on very low heat. Now be patient! Your tortilla will start to crisp up and your oven will fill with steam, which will melt your cheese and cook your toppings. (If you are using raw meat, you will want to precook that). You will know your pizza is done when the cheese is melted and the tortilla is crisped to a point where you can pick it up and eat it like a traditional pizza.\nTIP: You really have to keep the heat low and be patient in order to have optimal pizza cooking conditions. Don t burn the bottom of your tortilla by turning the heat too high! If you have two pots and two pans you can cook two pizzas at once. We only have one pot big enough to create the oven, so we split the first pizza and eat it while the second pizza is cooking, then split the second pizza. You can also use regular pizza dough - you will first want to sort of fry one side, then flip it over. Add the toppings to the precooked side and then cook as you would the tortilla pizza. If your toppings aren t getting enough steam, through a bit of water in the side of the pan, then cover it back up. This will add extra steam and help melt your cheese and cook your toppings.",
+      "servings": "1",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Peanut Stir Fry",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Sauté your veggies in a pan using your preferred oil\n(coconut/vegetable/olive/almond..). In a separate pot, cook\nthe Ramen noodles according to their directions (i.e. boil\nwater, throw in the brick, and wait three minutes). You can\nthrow away the little flavor packet that comes with it. (Or\nsave it for another time – i.e. add to some rice or season\nchicken.). Next, add your peanut butter, soy sauce, and\nbrown sugar to your vegetables (The amounts are rough\nestimate – depends on your taste, play around with the\nquantities!). Cook on low heat until the peanut butter is all\nmelted into a nice peanut sauce. Serve in a bowl over the\nnoodles."
+      "prep time": "10 min.",
+      "ingredients": "1 package of Ramen noodles\n3 Tbsp peanut butter\n2 Tbsp soy sauce\n1 Tbsp brown sugar\nVeggies and meats. We always use broccoli, onion, and bell pepper to get started. Add what you want from there!",
+      "instructions": "Sauté your veggies in a pan using your preferred oil (coconut/vegetable/olive/almond..). In a separate pot, cook the Ramen noodles according to their directions (i.e. boil water, throw in the brick, and wait three minutes). You can throw away the little flavor packet that comes with it. (Or save it for another time – i.e. add to some rice or season chicken.). Next, add your peanut butter, soy sauce, and brown sugar to your vegetables (The amounts are rough estimate – depends on your taste, play around with the quantities!). Cook on low heat until the peanut butter is all melted into a nice peanut sauce. Serve in a bowl over the noodles.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Sausage, Quinoa & Veggies",
-      "prep_time": "10 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Add 1 tbsp of oil to the saucepan over medium heat. Add quinoa and lightly toss in\noil until browned. The quinoa should smell nutty. Add 1 ½ cups of water (or low\nsodium chicken broth) and turn heat to high. Once it's boiled, turn down the heat to\na simmer and cover. It should take about 20 min. to absorb all the water. You'll\nknow when it's done when you can fluff with a fork easily.\nWhile the quinoa is cooking, slice the chicken sausage (about 9 pieces per sausage\nminimum, though I often half the 9 pieces). Heat about 1-2 tbsp of olive oil in a cast\niron pan over medium heat. Once the pan is heated, add chicken sausage and cook\nuntil golden brown. Remove from the pan.\nUsing the same pan, add quartered Brussels sprouts. Also add a quarter cup of\nwater and about the same amount of balsamic vinegar. Cover with a lid and keep\ncooking over medium heat. Check the Brussels sprouts intermittently. When they\nare bright green and softened, add sliced onion and toss. Add more balsamic if dry.\nCover.\nWhen the onions are half-cooked, uncover the Brussels sprouts and raise heat.\nContinue to toss the Brussels sprouts and add minced garlic. When the Brussels\nsprouts are cooked through and browned to your liking, add cooked chicken\nsausages and spinach. Sauté until the spinach is cooked down. It shouldn't take\nlong with the heat.\nServe the protein and roasted veggies over the quinoa. Add optional ripe sliced\navocado and cherry tomatoes over the top.\nTip: I typically cook by \"feel\" and don't usually use recipes, so take measurements\nwith a grain of salt :)\n17"
+      "prep time": "10 min.",
+      "ingredients": "1 Cup Quinoa (optional - soaked to remove bitterness)\n1.5 cups water or low-sodium chicken broth\n1 package Chicken Sausage (typically 4 links per package)\n15 medium sized Brussels sprouts (quartered)\n1 yellow onion, finely sliced\n1 clove minced garlic\n2 handfuls fresh spinach\nBalsamic vinegar\nOlive oil\nSalt/pepper to taste\nOptional: Sliced ripe avocado, halved cherry tomatoes",
+      "instructions": "Add 1 tbsp of oil to the saucepan over medium heat. Add quinoa and lightly toss in oil until browned. The quinoa should smell nutty. Add 1 ½ cups of water (or low sodium chicken broth) and turn heat to high. Once it s boiled, turn down the heat to a simmer and cover. It should take about 20 min. to absorb all the water. You ll know when it s done when you can fluff with a fork easily. While the quinoa is cooking, slice the chicken sausage (about 9 pieces per sausage minimum, though I often half the 9 pieces). Heat about 1-2 tbsp of olive oil in a cast iron pan over medium heat. Once the pan is heated, add chicken sausage and cook until golden brown. Remove from the pan. Using the same pan, add quartered Brussels sprouts. Also add a quarter cup of water and about the same amount of balsamic vinegar. Cover with a lid and keep cooking over medium heat. Check the Brussels sprouts intermittently. When they are bright green and softened, add sliced onion and toss. Add more balsamic if dry. Cover. When the onions are half-cooked, uncover the Brussels sprouts and raise heat. Continue to toss the Brussels sprouts and add minced garlic. When the Brussels sprouts are cooked through and browned to your liking, add cooked chicken sausages and spinach. Sauté until the spinach is cooked down. It shouldn t take long with the heat. Serve the protein and roasted veggies over the quinoa. Add optional ripe sliced avocado and cherry tomatoes over the top.\nTIP: I typically cook by \"feel\" and don t usually use recipes, so take measurements with a grain of salt :)",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Vanchiladas",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "You will need to prepare the insides of your enchilada first. Cook\nup your rice, beans, veggies, or meat. Roll up your enchilada. We\nusually make two enchiladas per person. Make sure to put some\ncheese on the inside! Open up your enchilada sauce and pour\nsome into a large pan. Put all your enchiladas into the pan. Cover\nthe enchiladas with the rest of the sauce. Cover with cheese. Add\nmore cheese for good measure. We really like cheese. Create an\noven for your enchiladas by inverting a large pot on top of your\npan. Turn the heat on medium low. You may hear the enchilada\nsauce in the bottom of the pan start to bubble and boil. This is a\ngood sign! Every so often, rotate the pan around so all the\nenchiladas have a chance to be over the flame. Once all the\ncheese on top of your enchiladas has melted, you're ready to eat!\n\nTip: This is a delicious meal, but it is also very messy! Be\nprepared to have several very dirty and saucy dishes when you're\nthrough."
+      "prep time": "10 min.",
+      "ingredients": "Tortillas\nEnchilada sauce\nCheese\nWhatever else you want in your enchilada! Sometimes we make these more like wet burritos and will put in rice, beans, and veggies. Sometimes we just do veggies and cheese. These would also be delicious with meat, but we don t have meat in the van.",
+      "instructions": "You will need to prepare the insides of your enchilada first. Cook up your rice, beans, veggies, or meat. Roll up your enchilada. We usually make two enchiladas per person. Make sure to put some cheese on the inside! Open up your enchilada sauce and pour some into a large pan. Put all your enchiladas into the pan. Cover the enchiladas with the rest of the sauce. Cover with cheese. Add more cheese for good measure. We really like cheese. Create an oven for your enchiladas by inverting a large pot on top of your pan. Turn the heat on medium low. You may hear the enchilada sauce in the bottom of the pan start to bubble and boil. This is a good sign! Every so often, rotate the pan around so all the enchiladas have a chance to be over the flame. Once all the cheese on top of your enchiladas has melted, you re ready to eat!\nTIP: This is a delicious meal, but it is also very messy! Be prepared to have several very dirty and saucy dishes when you re through.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Quesarito",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "This is like a standard burrito, but with an exciting twist.\nFirst, you will want to prepare you burrito ingredients. Cook\nyour rice and stir in your beans. Cook your veggies, and\nmeat if you plan on including them. Put your burrito\ningredients aside, or keep them warm on the stove. Get\nyour tortillas and cheese and make a standard quesadilla\n(cheese inside tortilla, fold in half, cook on either side until\nlightly browned). Now, peel open your quesadilla and fill it\nwith your burrito ingredients. Roll it up like a burrito and\nenjoy this savory delight!\n\n18"
+      "prep time": "10 min.",
+      "ingredients": "2 large (burrito sized) tortillas\nRice\nBeans\nCheese\nBurrito insides to your liking. We use lots of veggies, typically onion, bell pepper, garlic, spinach, avocado, mushrooms, hot sauce etc.",
+      "instructions": "This is like a standard burrito, but with an exciting twist. First, you will want to prepare you burrito ingredients. Cook your rice and stir in your beans. Cook your veggies, and meat if you plan on including them. Put your burrito ingredients aside, or keep them warm on the stove. Get your tortillas and cheese and make a standard quesadilla (cheese inside tortilla, fold in half, cook on either side until lightly browned). Now, peel open your quesadilla and fill it with your burrito ingredients. Roll it up like a burrito and enjoy this savory delight!",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Almond Milk Pasta",
-      "prep_time": "10 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Bring the milk to a boil with bullion and spices, add pasta\nand cheese. Boil for two minutes. Remove from stove and\nplace in a fireless cooker for 45 minutes.\nTop with chopped olives, tomatoes or whatever suits you.\nTip: This is a recipe I make when traveling on my boat. I\nhave never tried it with regular milk, but I am sure it can be\nsubstituted. I use the fireless cooker to conserve propane.\nYou can make you own fireless cooker by wrapping your\npot in towels and putting it in a cooler or other insulated or\nsturdy container packed with more towels."
+      "prep time": "10 min.",
+      "ingredients": "4 cup almond milk\n1 tsp onion powder\n1/2 tsp garlic powder\n1 veggie bouillon cube\n1/2 tsp salt\n1/4 tsp pepper\n1/2 cup parmesan cheese or nutritional yeast\n8 oz. pasta",
+      "instructions": "Bring the milk to a boil with bullion and spices, add pasta and cheese. Boil for two minutes. Remove from stove and place in a fireless cooker for 45 minutes. Top with chopped olives, tomatoes or whatever suits you.\nTIP: This is a recipe I make when traveling on my boat. I have never tried it with regular milk, but I am sure it can be substituted. I use the fireless cooker to conserve propane. You can make you own fireless cooker by wrapping your pot in towels and putting it in a cooler or other insulated or sturdy container packed with more towels.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Swiss Chard with Garlic Chips",
-      "prep_time": "10 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Heat oil in a 12-inch heavy skillet over medium heat until it\nshimmers, then cook garlic, stirring, until golden, about 3 minutes.\nTransfer garlic with a slotted spoon to paper towels to drain.\nCook onion in oil remaining in skillet over medium heat, stirring\noccasionally, until softened, 3 to 5 minutes. Add currants and\ncook, stirring, until plumped, about 1 minute.\nStir chard stems into onion mixture with water and add 3/4\nteaspoon each of salt and pepper. Cook, covered, over mediumhigh heat until almost tender, about 5 minutes. Stir in chard leaves\nand cook, covered, until stems and leaves are tender, about 5\nminutes.\nMeanwhile, cook spaghetti in a pasta pot of boiling salted water (2\ntablespoons salt for 5 quarts water) until al dente. Reserve 1 cup\npasta-cooking water and drain spaghetti.\nToss spaghetti with chard, olives, and 1/2 cup cooking water,\nadding more cooking water if necessary. Season with salt and\npepper. Serve sprinkled with feta and garlic chips.\nTip: ANY leafy green can be used. While chard is best, you can\ndo it with mustard greens, a dark lettuce, spinach, etc, you just\nhave to adjust your cooking times so the greens are wilted. 19"
+      "prep time": "10 min.",
+      "ingredients": "1/3 cup olive oil\n1 head garlic, cloves peeled and thinly sliced lengthwise\n1 medium onion, finely chopped\n1/2 cup dried currants (optional)\n2 pounds green Swiss chard, stems and center ribs finely chopped and leaves coarsely chopped separately\n1/2 cup water\n1 pound spaghetti\n1/2 cup Kalamata olives, cut into slivers\n6 ounces feta, crumbled (1 1/2 cups)",
+      "instructions": "Heat oil in a 12-inch heavy skillet over medium heat until it shimmers, then cook garlic, stirring, until golden, about 3 minutes. Transfer garlic with a slotted spoon to paper towels to drain. Cook onion in oil remaining in skillet over medium heat, stirring occasionally, until softened, 3 to 5 minutes. Add currants and cook, stirring, until plumped, about 1 minute. Stir chard stems into onion mixture with water and add 3/4 teaspoon each of salt and pepper. Cook, covered, over medium-high heat until almost tender, about 5 minutes. Stir in chard leaves and cook, covered, until stems and leaves are tender, about 5 minutes. Meanwhile, cook spaghetti in a pasta pot of boiling salted water (2 tablespoons salt for 5 quarts water) until al dente. Reserve 1 cup pasta-cooking water and drain spaghetti. Toss spaghetti with chard, olives, and 1/2 cup cooking water, adding more cooking water if necessary. Season with salt and pepper. Serve sprinkled with feta and garlic chips.\nTIP: ANY leafy green can be used. While chard is best, you can do it with mustard greens, a dark lettuce, spinach, etc, you just have to adjust your cooking times so the greens are wilted.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Fusilli Puttanesca",
-      "prep_time": "0 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Empty Anchovies with their oil, and the olives into a frying\npan. Add garlic. Fry on a medium heat for 5 mins. Then add\ntinned tomatoes and capers. Simmer on a medium heat\nuntil reduced.\nMeanwhile boil pasta. When ready, mix into the sauce.\nServe with a little Parmesan on top if you're feeling\nextravagant."
+      "prep time": "0 min.",
+      "ingredients": "Pasta (of your choice, we like it with fusilli)\n2 cloves garlic\n2 x small tins of Anchovy fillets\n2 tins chopped tomatoes\nHalf jar of sliced black olives (drained)\n2 dessert spoons of capers",
+      "instructions": "Empty Anchovies with their oil, and the olives into a frying pan. Add garlic. Fry on a medium heat for 5 mins. Then add tinned tomatoes and capers. Simmer on a medium heat until reduced. Meanwhile boil pasta. When ready, mix into the sauce. Serve with a little Parmesan on top if you re feeling extravagant.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Easy Mexican Rice",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Combine water & rice, per package instructions. For every\none cup of uncooked rice, also add approximately 1/2 c of\nsalsa (or diced tomatoes/onion/peppers), 1/4 c of shredded\nor diced cheese, and one chicken bouillon cube. Add\njalapenos for additional kick. Cook rice according to\ninstructions.\nTip: We make this in our pressure cooker and it is easy and\nquick! (Details in Pressure cooker section of this book)\n\n20"
+      "prep time": "5 min.",
+      "ingredients": "Rice\nWater\nSalsa (or tomatoes/onion/peppers)\nCheese\nChicken Bouillon",
+      "instructions": "Combine water & rice, per package instructions. For every one cup of uncooked rice, also add approximately 1/2 c of salsa (or diced tomatoes/onion/peppers), 1/4 c of shredded or diced cheese, and one chicken bouillon cube. Add jalapenos for additional kick. Cook rice according to instructions.\nTIP: We make this in our pressure cooker and it is easy and quick! (Details in Pressure cooker section of this book)",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Beach Tacos",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Marinate meat as you like (for me a little paprika, pepper\nand salt does the trick) and throw on the grill (or frying pan)\nMeanwhile, cut all other ingredients that you’ll use for\ntoppings.\nIf using a stove top, use a pot or pan to sauté onions and\npepper and heat up the corn and beans. If you’re using a\ngrill, you can do the same as with a pan or you can first grill\nthe pepper and onion and then cut them. You can also\nwarm up the taco over the range or on the grill.\nAssemble your taco and enjoy!"
+      "prep time": "10 min.",
+      "ingredients": "200g Chicken and 200g Beef\n300g tomatoes\n1 paprika\n1 onion\n1 red pepper\nHalf can of corn\nHalf can of beans\nChili sauce/salsa\nTacos",
+      "instructions": "Marinate meat as you like (for me a little paprika, pepper and salt does the trick) and throw on the grill (or frying pan). Meanwhile, cut all other ingredients that you ll use for toppings. If using a stove top, use a pot or pan to sauté onions and pepper and heat up the corn and beans. If you re using a grill, you can do the same as with a pan or you can first grill the pepper and onion and then cut them. You can also warm up the taco over the range or on the grill. Assemble your taco and enjoy!",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "World Famous French Fries",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Pour oil into sauce pan and place over high heat. You need at\nleast an inch of oil (or ideally 3 inches) in your sauce pan –deep\nenough for the potatoes to be entirely submerged. While oil is\nheating, wash potatoes and cut into French fry wedges –about\n1/8” thick and ½” wide.\nTo test if oil is hot enough, drop one potato wedge into the oil.\nThis should cause strong bubbling in the oil and the potato should\nfloat. Once the oil is hot enough, add potato wedges, working in\nbatches depending on how much oil you are using and how many\npotatoes you chopped. Don’t over crowd the pot.\nCook potatoes until desired crispiness, about 10-15 minutes, until\nthe wedges are turning golden brown.\nRemove wedges from oil with slotted spoon and place in paper\ntowel lined bowl. Soak off excess oil, then toss in the seasoning.\nTo make a stellar dipping sauce, combine 5 parts mayo to 1 part\nSriracha hot sauce (adjust to your desired spiciness).\n21"
+      "prep time": "10 min.",
+      "ingredients": "Potatoes\nOil\nSeasoning (recommendation: Famous Dave s Steak & Burger or Rib Rub Seasoning)\nOptional dipping sauce:\nMayo & Sriracha (Seriously amazing)",
+      "instructions": "Pour oil into sauce pan and place over high heat. You need at least an inch of oil (or ideally 3 inches) in your sauce pan –deep enough for the potatoes to be entirely submerged. While oil is heating, wash potatoes and cut into French fry wedges –about 1/8” thick and ½” wide. To test if oil is hot enough, drop one potato wedge into the oil. This should cause strong bubbling in the oil and the potato should float. Once the oil is hot enough, add potato wedges, working in batches depending on how much oil you are using and how many potatoes you chopped. Don t over crowd the pot. Cook potatoes until desired crispiness, about 10-15 minutes, until the wedges are turning golden brown. Remove wedges from oil with slotted spoon and place in paper towel lined bowl. Soak off excess oil, then toss in the seasoning. To make a stellar dipping sauce, combine 5 parts mayo to 1 part Sriracha hot sauce (adjust to your desired spiciness).",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Chickpea Parsley Pasta",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Get pasta cooking first then chop up the parsley and onion.\nLightly sauté onion (just for a minute or two, you want it to\nstill be crunchy) mix in chickpeas and cook for 1-2 more\nminutes.\nStrain pasta and stir in chickpea and onion mix, add\nparsleys and juice from one whole lemon. Add salt, pepper,\nand parmesan to taste.\nTip: Add canned tuna or grilled salmon to bulk up"
+      "prep time": "5 min.",
+      "ingredients": "1/2 chopped white onion\n1 cup chopped flat leaf Italian parsley\n1 can rinsed and drained chickpeas\nAs much orecchiette or small shell pasta as it takes to feed your crew\nParmesan (optional)\n1 whole lemon\nSalt and pepper",
+      "instructions": "Get pasta cooking first then chop up the parsley and onion. Lightly sauté onion (just for a minute or two, you want it to still be crunchy) mix in chickpeas and cook for 1-2 more minutes. Strain pasta and stir in chickpea and onion mix, add parsleys and juice from one whole lemon. Add salt, pepper, and parmesan to taste.\nTIP: Add canned tuna or grilled salmon to bulk up",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Quick Fire Chili",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Heat oil. Add veggie burgers. Stir in all other ingredients.\nBring to a boil and then simmer for about 30 min. If too thick\nadd a little more water to achieve desired consistency.\nTip: I like to err on the side of more oil, especially as my\ncamp pots are not as high quality. Stir frequently while\nsipping a good beer.\n\n22"
+      "prep time": "5 min.",
+      "ingredients": "1 tbsp olive oil\n2 to 3 veggie burgers Thawed\n2 tablespoons of chili powder\nOne 16 oz. jar of salsa\nOne 14.5 oz. can of diced tomatoes\nTwo 15 oz. cans of beans (pintos, black, or red) drained and rinsed\n1/2 cup or more of water\nSalt and Pepper",
+      "instructions": "Heat oil. Add veggie burgers. Stir in all other ingredients. Bring to a boil and then simmer for about 30 min. If too thick add a little more water to achieve desired consistency.\nTIP: I like to err on the side of more oil, especially as my camp pots are not as high quality. Stir frequently while sipping a good beer.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Coconut Stir Fry",
-      "prep_time": "8 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Cook rice according to directions. Meanwhile chop veggies\nto desired size. In a pan or skillet sauté the veggies for a 35 minutes until warm. Add coconut milk and spices and\nsimmer for 10 minutes until veggies are soft.\n\n2 cans of coconut milk\nVegetables (we like broccoli, peas,\ngarbanzo beans, cauliflower,\nspinach...)\nRice\nCurry powder\nRed Pepper flakes\nSalt and Pepper\n\nOnce the veggies are done and rice finished - poor the\nveggies over rice. Voila!\nTip: Great way to use up veggies. Delicious. Fresh.\nHealthy."
+      "prep time": "8 min.",
+      "ingredients": "2 cans of coconut milk\nVegetables (we like broccoli, peas, garbanzo beans, cauliflower, spinach...)\nRice\nCurry powder\nRed Pepper flakes\nSalt and Pepper",
+      "instructions": "Cook rice according to directions. Meanwhile chop veggies to desired size. In a pan or skillet sauté the veggies for a 3-5 minutes until warm. Add coconut milk and spices and simmer for 10 minutes until veggies are soft. Once the veggies are done and rice finished - poor the veggies over rice. Voila!\nTIP: Great way to use up veggies. Delicious. Fresh. Healthy.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Jon's Burgers",
-      "prep_time": "2 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "This is my burger recipe - my go to meal for any meat eater. The burgers are incredibly simple to\nmake, toppings like bacon and caramelized onions can add some time so plan accordingly. This\ncan be a little messy (flying grease) and cause some smoke, but they're well worth it.\nTake your 1lb of ground beef and form it into four equal sized balls. Pack them life you would a\nsnow ball, tight enough so they don't crumble.\nPut your vegetable oil into your cast iron pan and start heating it up. You want the burner at\nMed/High to High. Let it heat until it begins to smoke just a little and then back off the heat a tad.\nYou want the pan hot enough to fry these burgers.\nPlace your balls of ground beef into the pan, there should be a satisfying sizzle and crackle if the\npan is hot enough. Grab your salt and pepper and use both on the top of the ground beef. Usually\n3 twists or shakes will do. Wait 1 minute.\nAfter the first minute flip the ground beef balls over and then squash them flat. You'll want them to\nbe a little over 1/2\" thick. Again salt and pepper them and wait 1 minute.\nAfter the second minute flip them again. If you're going to use cheese, now's the time to add it. Let\nthem cook 1 more minute then pull them out of the pan. If done right you'll have a Medium to\nMedium Rare burger ready to go. Place it on your bun of choice and add your favorite toppings.\nTip: After much testing my favorite burger is topped with Muenster cheese, bacon, and mashed\navocado with a toasted English Muffin as the bun. Give it a shot .\n\n23"
+      "prep time": "2 min.",
+      "ingredients": "1lb 85/15 Grass Fed Ground Beef\nCheese (Of your choice, but American Land o Lakes just tastes right)\nSesame seed Bun\n3 tbsp of vegetable oil\nSalt and Pepper\nPretty much any toppings of your choosing, but recommend trying these:\nAvocado\nPeppers\nMushrooms\nCaramelized Onions\nKetchup\nBacon",
+      "instructions": "This is my burger recipe - my go to meal for any meat eater. The burgers are incredibly simple to make, toppings like bacon and caramelized onions can add some time so plan accordingly. This can be a little messy (flying grease) and cause some smoke, but they re well worth it. Take your 1lb of ground beef and form it into four equal sized balls. Pack them life you would a snow ball, tight enough so they don t crumble. Put your vegetable oil into your cast iron pan and start heating it up. You want the burner at Med/High to High. Let it heat until it begins to smoke just a little and then back off the heat a tad. You want the pan hot enough to fry these burgers. Place your balls of ground beef into the pan, there should be a satisfying sizzle and crackle if the pan is hot enough. Grab your salt and pepper and use both on the top of the ground beef. Usually 3 twists or shakes will do. Wait 1 minute. After the first minute flip the ground beef balls over and then squash them flat. You ll want them to be a little over 1/2\" thick. Again salt and pepper them and wait 1 minute. After the second minute flip them again. If you re going to use cheese, now s the time to add it. Let them cook 1 more minute then pull them out of the pan. If done right you ll have a Medium to Medium Rare burger ready to go. Place it on your bun of choice and add your favorite toppings.\nTIP: After much testing my favorite burger is topped with Muenster cheese, bacon, and mashed avocado with a toasted English Muffin as the bun. Give it a shot.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Coconut Ramen Veggie Soup",
-      "prep_time": "15 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Chop all veggies to desired size, bite-size is recommended.\nIn a pan or skillet, sauté veggies using olive oil.\nMeanwhile, split the required liquid for the Ramen between\nwater and coconut milk. Add spice pack once done if\ndesired.\nCombine into a delicious, easy soup"
+      "prep time": "15 min.",
+      "ingredients": "Shin Ramen Spicy Instant Noodles\nPowdered (or canned) coconut milk\nRed Pepper\nBroccoli\nZucchini or Eggplant",
+      "instructions": "Chop all veggies to desired size, bite-size is recommended. In a pan or skillet, sauté veggies using olive oil. Meanwhile, split the required liquid for the Ramen between water and coconut milk. Add spice pack once done if desired. Combine into a delicious, easy soup.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Spinach and Artichoke Fondue",
-      "prep_time": "5 min.",
-      "ingredients": "10",
-      "meal": "dinner",
-      "instructions": "Take one large pot and fill bottom with water. Inside this\npot, place tightly packed balls of aluminum foil or a grate\nthat another, smaller, pot will be able to rest on. The key is\nto not allow the smaller pot to have direct contact with the\nheat source. Place all the cheese, spinach and artichokes\ninto the smaller pot and set inside larger one. Turn on\nmedium heat and use the steam from the larger pot with\nwater to melt the cheese. Keep larger pot covered. Allow to\nmelt for 10 minutes until cheese is melted. Add pepper and\nTabasco sauce to cheese once melted and mix well.\nTip: Awesome to dip with bread vegetables and fruit.\nPersonal favorite apples, The combination of Swiss cheese\nand fruit will blow your mind.\n\n24"
+      "prep time": "5 min.",
+      "ingredients": "White wine (any kind work. About 3.5oz per 2 people)\nFresh spinach (chopped or shredded as much as desired)\nArtichokes (chopped as much as desired)\nSwiss cheese of any blend (shredded. 5 ½ oz. per 2 people)\nParmesan cheese (add as much as desired)\nFresh black pepper and Tabasco (add as much as desired)",
+      "instructions": "Take one large pot and fill bottom with water. Inside this pot, place tightly packed balls of aluminum foil or a grate that another, smaller, pot will be able to rest on. The key is to not allow the smaller pot to have direct contact with the heat source. Place all the cheese, spinach and artichokes into the smaller pot and set inside larger one. Turn on medium heat and use the steam from the larger pot with water to melt the cheese. Keep larger pot covered. Allow to melt for 10 minutes until cheese is melted. Add pepper and Tabasco sauce to cheese once melted and mix well.\nTIP: Awesome to dip with bread vegetables and fruit. Personal favorite apples, The combination of Swiss cheese and fruit will blow your mind.",
+      "servings": "10",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Ricotta w/ Sage and Tomatoes",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Mix polenta with ricotta cheese. Once mixed, divide polenta into 4\npatties about an inch thick.\nPlace a bit of ghee on the pan and pan fry the polenta for 6 min.\non each side.\nWhile polenta is cooking, place chopped onion and garlic in the\nother pan and sauté with ghee. After about 30 seconds add the\ncherry tomatoes (sliced in half or just puncture the tomato and\nleave it whole) and continue to sauté with ghee. Add 1tsp of sage\nwhen tomatoes are finished.\nTop with sliced avocado\nTip: Option to add whatever additional veggies you desire.\nSpinach and/or Swiss chard are wonderful"
+      "prep time": "10 min.",
+      "ingredients": "1 cup Polenta\n1 cup Ricotta cheese\nOnion\nGarlic\nTomato\nGhee (type of butter)\nSage",
+      "instructions": "Mix polenta with ricotta cheese. Once mixed, divide polenta into 4 patties about an inch thick. Place a bit of ghee on the pan and pan fry the polenta for 6 min. on each side. While polenta is cooking, place chopped onion and garlic in the other pan and sauté with ghee. After about 30 seconds add the cherry tomatoes (sliced in half or just puncture the tomato and leave it whole) and continue to sauté with ghee. Add 1tsp of sage when tomatoes are finished. Top with sliced avocado.\nTIP: Option to add whatever additional veggies you desire. Spinach and/or Swiss chard are wonderful.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "One Pot Wonder",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Chop up all the veggies you plan to include. Combine all\nveggies and pasta in a pot and add just enough water to\ncover the mix. Simmer away till pasta is cooked and sauce\nis thickened. No draining needed!\n\n25"
+      "prep time": "10 min.",
+      "ingredients": "Whole grain pasta\nBasil\nTomato\nOlive oil\nAny veggies hanging around looking for a good time",
+      "instructions": "Chop up all the veggies you plan to include. Combine all veggies and pasta in a pot and add just enough water to cover the mix. Simmer away till pasta is cooked and sauce is thickened. No draining needed!",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Campout Carbonara",
-      "prep_time": "15 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Heat a couple glugs of olive oil (2-3 tsp) in a frying pan over medium-low\nheat. While that's heating, set a pot of salted water to boil for pasta on the\n2nd burner. When the oil is hot, toss in your smashed garlic and diced\nbacon. Cook until fat renders and bacon is slightly crisp around the edges.\nTurn off heat, remove garlic cloves and discard. Remove bacon chunks\nfrom the grease and set aside.\nIn a medium sized bowl whisk together whole eggs, egg yolks. Add salt,\npepper, and parm to taste (lots of parm and pepper is recommended).\nWhen the bacon has cooled slightly, whisk that into the egg mixture.\nCook your pasta according to instructions. Strain, put back into hot pot\nand immediately pour egg-bacon mix onto pasta while stirring vigorously.\nThe egg mixture will cook in the hot pasta and make a creamy sauce.\nOnce the pasta is coated and the sauce has thickened, pour into bowls,\ntop with more parm and pepper. Serve right away.\nTip: If the egg mixture is not thickening into a sauce, place coated pasta\nback on burner over very low heat. Continue to stir until sauce is thick."
+      "prep time": "15 min.",
+      "ingredients": "1 pound of bacon-diced\n3 garlic cloves-smashed\n1 lb. of your favorite dried pasta\n6 eggs (2 whole and 4 yolks)\nFreshly grated parmigiano reggiano\nSalt Pepper\nOlive oil",
+      "instructions": "Heat a couple glugs of olive oil (2-3 tsp) in a frying pan over medium-low heat. While that s heating, set a pot of salted water to boil for pasta on the 2nd burner. When the oil is hot, toss in your smashed garlic and diced bacon. Cook until fat renders and bacon is slightly crisp around the edges. Turn off heat, remove garlic cloves and discard. Remove bacon chunks from the grease and set aside. In a medium sized bowl whisk together whole eggs, egg yolks. Add salt, pepper, and parm to taste (lots of parm and pepper is recommended). When the bacon has cooled slightly, whisk that into the egg mixture. Cook your pasta according to instructions. Strain, put back into hot pot and immediately pour egg-bacon mix onto pasta while stirring vigorously. The egg mixture will cook in the hot pasta and make a creamy sauce. Once the pasta is coated and the sauce has thickened, pour into bowls, top with more parm and pepper. Serve right away.\nTIP: If the egg mixture is not thickening into a sauce, place coated pasta back on burner over very low heat. Continue to stir until sauce is thick.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Ginger Cashew Chicken",
-      "prep_time": "15 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Spread nuts on a skillet or Dutch oven and toast for 10\nminutes. Remove from heat, let cool if to be stored or set\naside if to be eaten right away. The nuts can be toasted in\nparallel to cooking of other ingredients.\nCombine corn, onion, rice, and mushrooms, chicken plus\nseasoning packet (from soup mix), in enough water to cover\nand mix well; simmer for 5-10 minutes, adding water if\nneeded and cooking until rice is done. Garnish with nuts.\n\n26"
+      "prep time": "15 min.",
+      "ingredients": "2/3 cup raw cashews\n1 1/4 cups freeze-dried corn\n3 tbsp chopped dehydrated onion\n1 1/2 cups instant brown rice\n6 thinly sliced dried mushrooms\n1 oz. Coconut Ginger soup mix\n5 oz. can chicken in water or any cooked chicken (great use of left-over chicken)",
+      "instructions": "Spread nuts on a skillet or Dutch oven and toast for 10 minutes. Remove from heat, let cool if to be stored or set aside if to be eaten right away. The nuts can be toasted in parallel to cooking of other ingredients. Combine corn, onion, rice, and mushrooms, chicken plus seasoning packet (from soup mix), in enough water to cover and mix well; simmer for 5-10 minutes, adding water if needed and cooking until rice is done. Garnish with nuts.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Creamy Coconut Rice and Beans",
-      "prep_time": "10 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Combine rice, water, coconut milk, onion, and garlic in a\npot. Season with salt, pepper, and some crushed red chilies\n(or any other spices that sound good to you!). Bring to a\nboil, then reduce heat to a simmer until rice has finished\ncooking, and all liquid has been absorbed, about 15-20\nminutes. To finish, add in shredded coconut and black\nbeans (optional). Garnish with fresh chopped cilantro (or\nany fresh herbs on hand like chives or parsley).\n\nTip: You can change up the ratio of coconut milk to water if\nyou want it more/less coconutty. I've also used other types\nof beans (cannellini beans are my second favorite). You\ncould even try using another type of grain!"
+      "prep time": "10 min.",
+      "ingredients": "1 cup Jasmine/Basmati Rice\n1 cup water\n1 cup coconut milk (the thicker the better)\n1/2 yellow onion, chopped finely\n2 cloves garlic, minced\n1/2 cup shredded coconut\n1 can black beans, rinsed well\nChopped cilantro\nSalt and Pepper\nCrushed red chilies (optional)",
+      "instructions": "Combine rice, water, coconut milk, onion, and garlic in a pot. Season with salt, pepper, and some crushed red chilies (or any other spices that sound good to you!). Bring to a boil, then reduce heat to a simmer until rice has finished cooking, and all liquid has been absorbed, about 15-20 minutes. To finish, add in shredded coconut and black beans (optional). Garnish with fresh chopped cilantro (or any fresh herbs on hand like chives or parsley).\nTIP: You can change up the ratio of coconut milk to water if you want it more/less coconutty. I ve also used other types of beans (cannellini beans are my second favorite). You could even try using another type of grain!",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Gingery Coconut Soup",
-      "prep_time": "15 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Heat coconut oil in a large stock pot over medium-high heat\nand allow it to melt. Add ginger, garlic, and onion and stir\nfrequently over medium heat, watching to make sure those\nlittle bits don't get burned. Once the onion is soft, add the\nchopped root vegetables and 6 cups of water. Bring the\nsoup to a boil, and then reduce to a simmer. Keep the soup\nsimmering until all root veggies are soft. Remove the soup\nfrom the heat, and stir in 1/2 - 3/4 of a can of coconut milk.\nSalt and pepper to taste.\nTip: Serve with a cooked grain for a heartier meal, or just\nmake the broth (ginger garlic and onion) if you are getting\nsick and need a boost for your immune system.\n*Yes, this recipe is an hour, but it’s very simple and hands\noff.\n27"
+      "prep time": "15 min.",
+      "ingredients": "4-5 cloves garlic, finely minced or grated\n3-4” chunk of fresh ginger, peeled and grated\n1 whole yellow/white onion, roughly chopped\n3 carrots, roughly chopped in rounds\n1 sweet potato, chopped into cubes\nAny root vegetables you can get your hands on: turnips, rutabaga, kohlrabi, celeriac are all great.\n2 tbsp coconut oil (substitute butter or olive oil if unavailable)\n1 can Coconut milk",
+      "instructions": "Heat coconut oil in a large stock pot over medium-high heat and allow it to melt. Add ginger, garlic, and onion and stir frequently over medium heat, watching to make sure those little bits don t get burned. Once the onion is soft, add the chopped root vegetables and 6 cups of water. Bring the soup to a boil, and then reduce to a simmer. Keep the soup simmering until all root veggies are soft. Remove the soup from the heat, and stir in 1/2 - 3/4 of a can of coconut milk. Salt and pepper to taste.\nTIP: Serve with a cooked grain for a heartier meal, or just make the broth (ginger garlic and onion) if you are getting sick and need a boost for your immune system. *Yes, this recipe is an hour, but it s very simple and hands off.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Poached Salmon",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Heat 1 tbsp olive oil in a frying pan and add onion and\ngarlic, slowly sautéing on low heat. Before the onion is\ncompletely soft, place the salmon filet (you might need to\ncut it into 2 pieces to fit in the pan) right on top of the onions\n(skin side up). Season the salmon with salt and pepper,\nthen cover the filets with slices of lemon and sprigs of dill.\nAdd water to the pan, so that the tops of the filets are still\nexposed. (This would also be a good time to add a splash\nof white wine if you have it on hand). Cover the pan and\nallow the salmon to cook for about 10-12 minutes,\ndepending on the thickness of the filet, and how you like\nyour salmon cooked."
+      "prep time": "5 min.",
+      "ingredients": "Filet of the best Salmon you can find\n2 cloves garlic\n1/2 white onion\nOlive oil\n1 lemon\nBunch of dill",
+      "instructions": "Heat 1 tbsp olive oil in a frying pan and add onion and garlic, slowly sautéing on low heat. Before the onion is completely soft, place the salmon filet (you might need to cut it into 2 pieces to fit in the pan) right on top of the onions (skin side up). Season the salmon with salt and pepper, then cover the filets with slices of lemon and sprigs of dill. Add water to the pan, so that the tops of the filets are still exposed. (This would also be a good time to add a splash of white wine if you have it on hand). Cover the pan and allow the salmon to cook for about 10-12 minutes, depending on the thickness of the filet, and how you like your salmon cooked.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Bacon Truffle Brussels Sprouts",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Cut bacon into small pieces. With a little olive oil, start\nsautéing bacon in pan. When cooked to desired crispiness\nset aside on plate, but leave some bacon grease in pan.\nWhile bacon is cooking cut Brussels sprouts into halves or\nquarters depending on size.\nAdd Brussels sprouts into bacon grease in pan. Add some\nwater to the pan to help steam and cook the Brussels\nsprouts until tender, about 5 minutes.\n.\nOnce soft and water is cooked off caramelize outside for\nsome nice char flavor. Add bacon back into pan.\nTop with salt and pepper and drizzle with truffle oil or\nbalsamic vinegar.\n28"
+      "prep time": "10 min.",
+      "ingredients": "3 slices of bacon (we like peppered bacon)\n1/2 pound of Brussels sprouts\n3 tablespoons water\nTruffle oil or Balsamic Vinegar\nSalt and Pepper",
+      "instructions": "Cut bacon into small pieces. With a little olive oil, start sautéing bacon in pan. When cooked to desired crispiness set aside on plate, but leave some bacon grease in pan. While bacon is cooking cut Brussels sprouts into halves or quarters depending on size. Add Brussels sprouts into bacon grease in pan. Add some water to the pan to help steam and cook the Brussels sprouts until tender, about 5 minutes. Once soft and water is cooked off caramelize outside for some nice char flavor. Add bacon back into pan. Top with salt and pepper and drizzle with truffle oil or balsamic vinegar.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Portobello Burger",
-      "prep_time": "10 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Place portobellos gills down in a skillet over medium heat.\nSplash each cap with balsamic and soy sauce and Cajun\nspices. Add just a splash of water so that there is enough\nliquid to steam the mushrooms. Cover the pan and let\nsteam for 5 minutes, or until the caps are soft.\nFlip mushrooms gill side up and cook for another 3 minutes\nwith the lid off so that some liquid cooks out. Turn off head\nand sprinkle cheese on the gills and cover until melted.\nAssemble burgers to your liking with lettuce tomatoes\npickles, or anything else that you want."
+      "prep time": "10 min.",
+      "ingredients": "4 Portobello mushrooms\n1 cup of grated cheese (smoked gouda or sharp cheddar is best)\n2 tbsp balsamic vinegar\n2 tbsp soy sauce\nCajun spices (garlic powder, paprika, cayenne, oregano, thyme, salt, black pepper)\nYour choice of bread, bun, roll\nSliced tomato\nSliced onion\nLettuce\nDill pickles",
+      "instructions": "Place portobellos gills down in a skillet over medium heat. Splash each cap with balsamic and soy sauce and Cajun spices. Add just a splash of water so that there is enough liquid to steam the mushrooms. Cover the pan and let steam for 5 minutes, or until the caps are soft. Flip mushrooms gill side up and cook for another 3 minutes with the lid off so that some liquid cooks out. Turn off head and sprinkle cheese on the gills and cover until melted. Assemble burgers to your liking with lettuce tomatoes pickles, or anything else that you want.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Curried Chickpeas",
-      "prep_time": "10 min.",
-      "ingredients": "6",
-      "meal": "dinner",
-      "instructions": "Melt coconut oil/butter in large soup pot. Add finely minced\ngarlic, ginger, and onion. Stirring frequently, cook over\nmedium heat until onion is beginning to soften. Then add\ncarrots, sweet potatoes, and chickpeas. Cook over medium\nheat 5 more minutes. Add in crushed tomatoes and a\nsplash of water, until the mixture resembles a soup. Some\npeople like a thinner curry, so the amount of water you add\nwill vary. Add all spices (adjusting to taste) and bring to a\nslow boil, then reduce the heat to a simmer for 20-30\nminutes until vegetables are soft. Add half a can of coconut\nmilk at the very end. Garnish with cilantro and green onion\nif you have them.\nTip: Serve with coconut rice (see our other delicious\nrecipe).\n29"
+      "prep time": "10 min.",
+      "ingredients": "3 tbsp coconut oil or butter\n2-3\" piece of ginger\n3 cloves garlic\n2 large yellow onions\n3 large carrots\n3 sweet potatoes\n2 cans chickpeas\n2 cans crushed tomatoes\n1/2 can coconut milk\nSalt and Pepper\n1 tbsp turmeric\n3 tbsp curry powder\n1 tsp garam masala (optional)\n1 tsp cayenne\nWater\nCilantro and green onions (optional)",
+      "instructions": "Melt coconut oil/butter in large soup pot. Add finely minced garlic, ginger, and onion. Stirring frequently, cook over medium heat until onion is beginning to soften. Then add carrots, sweet potatoes, and chickpeas. Cook over medium heat 5 more minutes. Add in crushed tomatoes and a splash of water, until the mixture resembles a soup. Some people like a thinner curry, so the amount of water you add will vary. Add all spices (adjusting to taste) and bring to a slow boil, then reduce the heat to a simmer for 20-30 minutes until vegetables are soft. Add half a can of coconut milk at the very end. Garnish with cilantro and green onion if you have them.\nTIP: Serve with coconut rice (see our other delicious recipe).",
+      "servings": "6",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Quinoa, Veggie and Pesto",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Wash 1 cup of quinoa and then put in a pot with 2 cups of\nwater, add some salt. Cook according to instructions.\nMeanwhile, chop spinach leaves into desired size, I suggest\nto at least halve them once. Dice the tomato and feta\ncheese.\nWhen quinoa is finished, serve into two bowls and add\nspinach leaves, tomato, feta, and the pesto on top! Mix and\neat!"
+      "prep time": "5 min.",
+      "ingredients": "1 cup of Quinoa\n100 grams of pesto (red or green)\nFresh spinach leaves (as many as you like)\n1 tomato\n1/4 cup Feta cheese (but you can add as much/little as you like!)",
+      "instructions": "Wash 1 cup of quinoa and then put in a pot with 2 cups of water, add some salt. Cook according to instructions. Meanwhile, chop spinach leaves into desired size, I suggest to at least halve them once. Dice the tomato and feta cheese. When quinoa is finished, serve into two bowls and add spinach leaves, tomato, feta, and the pesto on top! Mix and eat!",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Fall Pear Salad",
-      "prep_time": "10 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Mix all ingredients together and toss with balsamic, olive oil\nand add salt and pepper to taste. Top with grilled chicken or\npork chops if you're looking to bulk it up-enjoy!\n\n30"
+      "prep time": "10 min.",
+      "ingredients": "Bag of spinach\n1/4 of a chopped red onion\n1/4 cup chopped walnuts (or sunflower seeds or whatever nuts you have hanging around)\n2 pears (any kind will do, green apples work too in a pinch)\nBlue cheese (as much as desired!)\nBalsamic vinegar\nOlive oil\nSalt and pepper",
+      "instructions": "Mix all ingredients together and toss with balsamic, olive oil and add salt and pepper to taste. Top with grilled chicken or pork chops if you re looking to bulk it up-enjoy!",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Hummus",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Mash all the ingredients together until you achieve your\ndesired consistency. Play around with the quantities a little\nto achieve the consistency and taste you’re looking for.\nDip carrot/celery/cucumber sticks or use as a sandwich\nfiller."
+      "prep time": "5 min.",
+      "ingredients": "1 tin chickpeas, drained\n1-2 cloves garlic, finely chopped\n2-3 tablespoons tahini (sesame paste)\n2 tablespoons olive oil\nLime juice to taste\nSalt\nParsley and/or coriander, optional\nWater to loosen the mix",
+      "instructions": "Mash all the ingredients together until you achieve your desired consistency. Play around with the quantities a little to achieve the consistency and taste you re looking for. Dip carrot/celery/cucumber sticks or use as a sandwich filler.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Plátano & Cheese Omelet",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Cut onion into little squares and fry it with a bit of oil in a non-sticking pan\nuntil golden. You can also caramelize the onion with the panela or brown\nsugar if you like.\nCut the 2-3 plantains* into little squares and add them to the pan. Add a\nbit of salt and pepper. (*The quantity depends on the size of the pan. The\nonion plus the plantain squares should take around ¾ of the pan.)\nWhen it has soften up and it is almost cooked, add the cheese* into little\nsquares so it melts (*I recommend any kind of soft taste cheese will do.)\nIn a cup/bowl/sauce pan beat all the eggs together and add the mixture to\nthe pan. Let it cook for around 3 minutes and with a wooden fork or any\nother cutlery go around the border to unstuck it.\nPut a flat plate on top of the pan so that it covers it and flip it over quickly.\nAdd the omelet back in the pan with a bit more oil and cook the other side\nfor a couple of minutes. Put the plate on top of it and flip it over again. It's\nready!!\nTip: If you have the space, time or energy for washing up I would beat the\neggs in a sauce pan or big bowl so that you can pour in it the onion,\ncheese and plantain before cooking the omelet as it would mix better with\nthe egg.\n\n31"
+      "prep time": "10 min.",
+      "ingredients": "2-3 plantains\n5 Eggs\n1 Small onion\n100gr Cheese\nSalt\nPepper\nPanela or brown sugar\nOil",
+      "instructions": "Cut onion into little squares and fry it with a bit of oil in a non-sticking pan until golden. You can also caramelize the onion with the panela or brown sugar if you like. Cut the 2-3 plantains* into little squares and add them to the pan. Add a bit of salt and pepper. (*The quantity depends on the size of the pan. The onion plus the plantain squares should take around ¾ of the pan.) When it has soften up and it is almost cooked, add the cheese* into little squares so it melts (*I recommend any kind of soft taste cheese will do.) In a cup/bowl/sauce pan beat all the eggs together and add the mixture to the pan. Let it cook for around 3 minutes and with a wooden fork or any other cutlery go around the border to unstuck it. Put a flat plate on top of the pan so that it covers it and flip it over quickly. Add the omelet back in the pan with a bit more oil and cook the other side for a couple of minutes. Put the plate on top of it and flip it over again. It s ready!!\nTIP: If you have the space, time or energy for washing up I would beat the eggs in a sauce pan or big bowl so that you can pour in it the onion, cheese and plantain before cooking the omelet as it would mix better with the egg.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Tzatziki Sauce",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Peel and either shred or dice the cucumber. Mix together\nwith yogurt and minced garlic. Add lemon, salt and dill to\ntaste. Mix well and ready to serve!\nTip: Another variation is to replace the cucumber with a\ncarrot. Peel and shred the carrot. In a pan, sauté the\nshredded carrot until soft and aromatic. Mix with yogurt and\nfollow same directions as above."
+      "prep time": "10 min.",
+      "ingredients": "3 cups Greek yogurt (or any unsweetened yogurt)\n1 lemon (about 3 tbsp lemon juice)\n1 garlic clove\n1 large cucumber\nFresh Dill\nSalt\nOptional: Replace cucumber with a carrot.",
+      "instructions": "Peel and either shred or dice the cucumber. Mix together with yogurt and minced garlic. Add lemon, salt and dill to taste. Mix well and ready to serve!\nTIP: Another variation is to replace the cucumber with a carrot. Peel and shred the carrot. In a pan, sauté the shredded carrot until soft and aromatic. Mix with yogurt and follow same directions as above.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Devine Orzo Pasta Salad",
-      "prep_time": "15 min.",
-      "ingredients": "6",
-      "meal": "dinner",
-      "instructions": "In a pot, boil water and cook orzo according to directions on\nthe package. While water is boiling, dice up onion, peppers,\ntomatoes and olives and set aside. Drain orzo when done\ncooking and allow to cool for 5 minutes. Mix orzo with\nchopped veggies, feta cheese, olive oil and vinegar. Mix\nwell, and season to taste with salt and pepper. Enjoy!\nTip: This dish packs a punch of flavor and is super simple\nto make and store in a cooler. It makes a great main dish\nwhen paired with protein, or is always tasty as a side.\n\n32"
+      "prep time": "15 min.",
+      "ingredients": "1 box Orzo pasta\n1 medium onion (yellow, red or green)\n1 bell pepper (any color you prefer)\n1 container of grape tomatoes\n1 jar of olives (green or black)\n1 tub of feta cheese\n2 tbsp extra virgin olive oil\n2-4 tbsp of distilled white vinegar\nSalt and Pepper",
+      "instructions": "In a pot, boil water and cook orzo according to directions on the package. While water is boiling, dice up onion, peppers, tomatoes and olives and set aside. Drain orzo when done cooking and allow to cool for 5 minutes. Mix orzo with chopped veggies, feta cheese, olive oil and vinegar. Mix well, and season to taste with salt and pepper. Enjoy!\nTIP: This dish packs a punch of flavor and is super simple to make and store in a cooler. It makes a great main dish when paired with protein, or is always tasty as a side.",
+      "servings": "6",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Shaved Fennel and Apple Salad",
-      "prep_time": "15 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Slice the fennel as thin as possible, using the whole bulb,\nas well as the stalks and some of the greens. Slice the\napple to the same thickness, thin strips, and combine in a\nbowl with the fennel. Squeeze the juice of an entire lemon\ninto the bowl, and drizzle with a few tablespoons of olive oil.\nSeason with salt and ground pepper, and add in the\nsunflower seeds. Mix all ingredients well and then allow the\nsalad to chill for at least a ½ hour. Serve with a cooked\ngrain, or over greens."
+      "prep time": "15 min.",
+      "ingredients": "2 bulbs of fennel\n2 apples (Gala or Fuji are good, the crispier the better)\n1 lemon\nolive oil\nSalt and Pepper\n1/2 cup sunflower seeds",
+      "instructions": "Slice the fennel as thin as possible, using the whole bulb, as well as the stalks and some of the greens. Slice the apple to the same thickness, thin strips, and combine in a bowl with the fennel. Squeeze the juice of an entire lemon into the bowl, and drizzle with a few tablespoons of olive oil. Season with salt and ground pepper, and add in the sunflower seeds. Mix all ingredients well and then allow the salad to chill for at least a ½ hour. Serve with a cooked grain, or over greens.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Mexican Three Bean Salad",
-      "prep_time": "20 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Drain and rinse corn, and add to hot skillet (med-high heat)\nwith chopped jalapenos and a drizzle of olive oil. Cook until\nthe jalapeno is soft, then allow the mixture to char slightly\nbefore removing from heat. Transfer to large bowl. Add all 3\ncans of beans, rinsed and drained well. Then add chopped\nonion, carrot, pepper, scallion, cilantro, garlic, lime juice.\nStir mixture well, and season with salt, pepper, cumin, and\ncrushed red peppers (for extra heat).\nTip: Grab extra large spoon and shovel into mouth faster\nthan your camping partner.\n\n33"
+      "prep time": "20 min.",
+      "ingredients": "1 can black beans\n1 can cannellini beans\n1 can kidney beans\n1 can corn\n2 jalapenos\n1 red onion, finely diced\n1 clove garlic, crushed\n1 red pepper, finely diced\n2 large carrots, finely diced\n3 green onions (scallions or chives work too)\n1 lime, or 3 tbsp lime juice\n1 large bunch cilantro, chopped\nSalt and Pepper\n1 tsp cumin\nCrushed red pepper",
+      "instructions": "Drain and rinse corn, and add to hot skillet (med-high heat) with chopped jalapenos and a drizzle of olive oil. Cook until the jalapeno is soft, then allow the mixture to char slightly before removing from heat. Transfer to large bowl. Add all 3 cans of beans, rinsed and drained well. Then add chopped onion, carrot, pepper, scallion, cilantro, garlic, lime juice. Stir mixture well, and season with salt, pepper, cumin, and crushed red peppers (for extra heat).\nTIP: Grab extra large spoon and shovel into mouth faster than your camping partner.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Quesadilla",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Classic recipe – very easy and you can basically put\nanything you want in it! Super easy to clean up, and you\ncan make it as filling as you want.\nFry up chicken and veggies to your liking. Set aside.\nMelt butter in the pan and put tortilla on. About 1 minute\neach side and then add fried veggies and chicken, place\ncheese on top and cover for 1 minute to allow cheese to\nmelt. Remove from pan, add avocado, tomatoes, cilantro\nand/or hot sauce if desired."
+      "prep time": "5 min.",
+      "ingredients": "Tortillas\nCheese (Any cheese! Cheddar/Havarti …)\nChicken\nButter\nOnion, pepper, jalapenos\nAvocado\nCilantro\nHot sauce",
+      "instructions": "Classic recipe – very easy and you can basically put anything you want in it! Super easy to clean up, and you can make it as filling as you want. Fry up chicken and veggies to your liking. Set aside. Melt butter in the pan and put tortilla on. About 1 minute each side and then add fried veggies and chicken, place cheese on top and cover for 1 minute to allow cheese to melt. Remove from pan, add avocado, tomatoes, cilantro and/or hot sauce if desired.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Meatballs",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Finely chop the onion and garlic. Combine all ingredients\nexcept oil in a mixing bowl and mix well (I just use my\nhand). Shape mixture into small meatballs (about 1-1 1/2” in\ndiameter). Heat oil in skillet and brown meatballs on all\nsides about 15-20 minutes in total in the skillet.\nTip: No such thing as too much onion or parmesan cheese!\nAlso, don’t over crowd the skillet when cooking them. Goes\ngreat with rice, lentils, pilaf…\n\n34"
+      "prep time": "5 min.",
+      "ingredients": "1/2 lb. ground lamb, veal, pork or beef\n1 large onion\n1/4 cup fine, breadcrumbs (or crushed stale bread)\n1/4 cup grated parmesan cheese (or more!)\n1 egg\n2 tbsp heavy cream (optional)\n1/8 tsp nutmeg\n1/2 tsp garlic (optional)\n2 tbsp chopped parsley\nsalt and pepper\n2 tbsp corn, peanut or olive oil",
+      "instructions": "Finely chop the onion and garlic. Combine all ingredients except oil in a mixing bowl and mix well (I just use my hand). Shape mixture into small meatballs (about 1-1 1/2” in diameter). Heat oil in skillet and brown meatballs on all sides about 15-20 minutes in total in the skillet.\nTIP: No such thing as too much onion or parmesan cheese! Also, don t over crowd the skillet when cooking them. Goes great with rice, lentils, pilaf…",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Garlic Mac and Cheese",
-      "prep_time": "10 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Prepare pasta. Once done, drain and cover with a towel to keep\nmoist and set aside.\nTo prepare sauce, heat a large skillet over medium heat. Once\nhot add oil and minced garlic. Stir and cook for 1-2 minutes, or\nuntil light golden brown.\nImmediately add flour and mix, cooking for 1 minute. (If the sauce\nis not thick enough, add an extra 1 tbsp later on during the\nprocess).\nAdd milk 1/2 cup at a time, mixing constantly to prevent clumps,\nuntil 2 cups have been added. Cook for 2 minutes, stirring\nfrequently.\nAdd salt, pepper, parmesan cheese and mix until smooth. Taste\nand adjust seasonings as needed.\nAdd cooked, drained pasta and toss to coat. Then mix in bread\ncrumbs and serve immediately. Add extra parmesan cheese and\na little red pepper flake."
+      "prep time": "10 min.",
+      "ingredients": "10 ounces macaroni noodles\n4 tbsp olive oil\n5 cloves garlic, minced\n4-5 tbsp flour\n2 - 2 1/4 cups milk\n1/2 cup parmesan cheese (at least!)\n1/4 cup bread crumbs (optional)",
+      "instructions": "Prepare pasta. Once done, drain and cover with a towel to keep moist and set aside. To prepare sauce, heat a large skillet over medium heat. Once hot add oil and minced garlic. Stir and cook for 1-2 minutes, or until light golden brown. Immediately add flour and mix, cooking for 1 minute. (If the sauce is not thick enough, add an extra 1 tbsp later on during the process). Add milk 1/2 cup at a time, mixing constantly to prevent clumps, until 2 cups have been added. Cook for 2 minutes, stirring frequently. Add salt, pepper, parmesan cheese and mix until smooth. Taste and adjust seasonings as needed. Add cooked, drained pasta and toss to coat. Then mix in bread crumbs and serve immediately. Add extra parmesan cheese and a little red pepper flake.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Cranberry Kale Turkey Burger",
-      "prep_time": "3 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "In a bowl, mix all ingredients together until well combined.\nForm burgers into 6 uniform patties. Grill burgers over\nmedium high heat, cooking 8 minutes on each side until\nfirm and cooked through.\n\n35"
+      "prep time": "3 min.",
+      "ingredients": "1 shallot\n1 ½ pound ground turkey breast\n1/2 cup packed chopped kale\n1/4 cup dried cranberries\n1/4 cup crumbled blue cheese\n1/4 teaspoon ground cinnamon\n1/4 teaspoon paprika\n1/2 teaspoon cumin\nSalt and pepper",
+      "instructions": "In a bowl, mix all ingredients together until well combined. Form burgers into 6 uniform patties. Grill burgers over medium high heat, cooking 8 minutes on each side until firm and cooked through.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Beer Batter Chile Rellenos",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "On a gas range roast all poblano peppers in the flame until completely charred so no green of the\nchile is left visible. Place them in a sealed plastic bag for 5-10 min. to 'sweat' the charred skin from\nthe pepper. Pull the chiles out and scrape off all of the flakey back charred outside using a butter\nknife.\nCut the block of Monterey cheese into matchstick size pieces. Cut a small hole on the side of the\nchile near the top, just below where the seeds hang inside. Stuff the chile full of the cheese sticks.\nIn a bowl combine the flour, salt pepper and cumin. Then mix in the egg and beer. Add more flour\nto get the desired thickness of batter (thick pancake consistency).\nHeat a deep skillet (cast iron is ideal) of oil on the stove filled deep enough to submerge the chiles.\nIf you only have a smaller pan available you can submerge the chiles halfway then flip them.\nWhen the oil is hot enough (test for this by putting a drop of the batter in and if it sizzles you are\nready to go), dip the chiles in the batter, coating them fully, then drop them in the oil long enough\nfor the cheese inside to melt and the outside to crisp up, about 5 minutes.\nIn a separate pot heat the can of red chile sauce (salsa de chile colorado) to pour over the chiles."
+      "prep time": "5 min.",
+      "ingredients": "4 Poblano chiles\n1 heaping cup of flour\n1 can of beer\n1 egg\n1 block of Monterey Jack cheese\n1 tsp salt\n1 tbsp pepper\n1 tsp cumin (if available )\n1 bottle of vegetable oil (for frying)\n1 can of red chili sauce (salsa de chile colorado)",
+      "instructions": "On a gas range roast all poblano peppers in the flame until completely charred so no green of the chile is left visible. Place them in a sealed plastic bag for 5-10 min. to ‘sweat’ the charred skin from the pepper. Pull the chiles out and scrape off all of the flakey back charred outside using a butter knife. Cut the block of Monterey cheese into matchstick size pieces. Cut a small hole on the side of the chile near the top, just below where the seeds hang inside. Stuff the chile full of the cheese sticks. In a bowl combine the flour, salt pepper and cumin. Then mix in the egg and beer. Add more flour to get the desired thickness of batter (thick pancake consistency). Heat a deep skillet (cast iron is ideal) of oil on the stove filled deep enough to submerge the chiles. If you only have a smaller pan available you can submerge the chiles halfway then flip them. When the oil is hot enough (test for this by putting a drop of the batter in and if it sizzles you are ready to go), dip the chiles in the batter, coating them fully, then drop them in the oil long enough for the cheese inside to melt and the outside to crisp up, about 5 minutes. In a separate pot heat the can of red chile sauce (salsa de chile colorado) to pour over the chiles.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Pasta Salad",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Cook pasta, drain and set aside to cool. While chilling, cut\nup any vegetables that you plan to add, as well as the ham\nand cheese. Personally, I like all the ingredients to be cut\ninto roughly dime-size pieces.\nOnce pasta is cooled, add veggies, meat and cheese.\nSeason with desired amount of Italian dressing, or olive oil\nand enjoy!\n\n36"
+      "prep time": "10 min.",
+      "ingredients": "Fusilli (personal favorite but can use any type!)\nHam (cubed)\nCheese (cubed)\nArtichokes\nZucchini\nRed Pepper\nTomatoes\nBlack Olives\nItalian Dressing or olive oil\nSalt and Pepper",
+      "instructions": "Cook pasta, drain and set aside to cool. While chilling, cut up any vegetables that you plan to add, as well as the ham and cheese. Personally, I like all the ingredients to be cut into roughly dime-size pieces. Once pasta is cooled, add veggies, meat and cheese. Season with desired amount of Italian dressing, or olive oil and enjoy!",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Coconut Chicken / Veggie Curry",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "There are tons of curry recipes out there – but this is the simplest and\nyummiest that we’ve made. You can take out the meat and add more\nveggies or the other way around. Play around with the veggies you add. I\nlisted some of our favorites – we don’t use all of those at the same time.\n\n1 lb. chicken breast\n1 onion\n2 garlic cloves\n2 potatoes\n2 carrots\n1/2 a head of Broccoli or cauliflower\n1/2 Zucchini\n1 cup green beans\n3 tbsp curry powder\n1 can coconut milk\n1 cup water\n3/4 cup breadcrumbs/flour\n\nSlice chicken into ½” thick slices and sauté the chicken for 5 minutes. Add\nthe onions and garlic and cook until the chicken is fully cooked through\nand onions are tender. Add the remaining veggies as well as the salt and\ncurry powder and mix thoroughly.\nPour in the can of coconut milk and water to just cover the meat and\nveggies and bring to a boil. Cover and simmer over low heat until veggies\nare cooked, about 15 -20 minutes depending on how much stuff you have\nrelative to the size of your pot.\nAdd the flour and allow the sauce to thicken. Add more curry, and salt and\npepper to taste. Best with rice."
+      "prep time": "10 min.",
+      "ingredients": "1 lb. chicken breast\n1 onion\n2 garlic cloves\n2 potatoes\n2 carrots\n1/2 a head of Broccoli or cauliflower\n1/2 Zucchini\n1 cup green beans\n3 tbsp curry powder\n1 can coconut milk\n1 cup water\n3/4 cup breadcrumbs/flour",
+      "instructions": "There are tons of curry recipes out there – but this is the simplest and yummiest that we ve made. You can take out the meat and add more veggies or the other way around. Play around with the veggies you add. I listed some of our favorites – we don t use all of those at the same time. Slice chicken into ½” thick slices and sauté the chicken for 5 minutes. Add the onions and garlic and cook until the chicken is fully cooked through and onions are tender. Add the remaining veggies as well as the salt and curry powder and mix thoroughly. Pour in the can of coconut milk and water to just cover the meat and veggies and bring to a boil. Cover and simmer over low heat until veggies are cooked, about 15 -20 minutes depending on how much stuff you have relative to the size of your pot. Add the flour and allow the sauce to thicken. Add more curry, and salt and pepper to taste. Best with rice.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Stir Fry, Baby",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "There are so many ways to do a stir-fry right! It’s all up to you and\nwhat you like, which is why I omitted the quantities. Use what you\nwant and figure out the balance that you like most. Again, you can\ntake out the meat and add more veggies or the other way around.\nThe key, for us, is the ginger.\nSlice meat into ½” thick slices (or thinner) and sauté the meat for\n8-10 minutes, or until done. In the meantime, cut up the\nvegetables. Once the meat is done, set it aside and sauté the\nveggies in the same skillet. I find it’s actually easier to do the\nvegetables all separately, as different types require a different\namounts of time. Once all the veggies are cooked, mix all the\nveggies and the meat together and let it cook for a 3-4 minutes\ncovered, stirring occasionally over medium heat.\nFinally chop the ginger and garlic and add that to the mix. Cook\nfor another 2 more minutes and add the soy sauce. Based on\nyour taste, add more soy sauce, ginger, garlic, red chili pepper, or\npepper to taste. Best served with rice.\n37"
+      "prep time": "10 min.",
+      "ingredients": "Any veggies you want! Broccoli, carrots, green beans, peppers, mushrooms, zucchini…)\nChicken, beef or any other meat\nGarlic\nGinger\nSoy Sauce\nRed chili pepper",
+      "instructions": "There are so many ways to do a stir-fry right! It s all up to you and what you like, which is why I omitted the quantities. Use what you want and figure out the balance that you like most. Again, you can take out the meat and add more veggies or the other way around. The key, for us, is the ginger. Slice meat into ½” thick slices (or thinner) and sauté the meat for 8-10 minutes, or until done. In the meantime, cut up the vegetables. Once the meat is done, set it aside and sauté the veggies in the same skillet. I find it s actually easier to do the vegetables all separately, as different types require a different amounts of time. Once all the veggies are cooked, mix all the veggies and the meat together and let it cook for a 3-4 minutes covered, stirring occasionally over medium heat. Finally chop the ginger and garlic and add that to the mix. Cook for another 2 more minutes and add the soy sauce. Based on your taste, add more soy sauce, ginger, garlic, red chili pepper, or pepper to taste. Best served with rice.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Coconut Rice",
-      "prep_time": "0",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Depending on how sweet/coconut tasting you want your\nrice, adjust the amount of coconut milk, while keeping the\nrice to liquid ratio at 2x1.\n\n2 cups rice\n1 can coconut milk\nWater\nOlive Oil\n\nWe like to warm up some oil in a pot, add the rice and mix it\nconstantly for 2 minutes not allowing the rice to burn but to\nabsorb the oil. Add the coconut milk and water and let is\nsimmer until rice is done"
+      "prep time": "0",
+      "ingredients": "2 cups rice\n1 can coconut milk\nWater\nOlive Oil",
+      "instructions": "Depending on how sweet/coconut tasting you want your rice, adjust the amount of coconut milk, while keeping the rice to liquid ratio at 2x1. We like to warm up some oil in a pot, add the rice and mix it constantly for 2 minutes not allowing the rice to burn but to absorb the oil. Add the coconut milk and water and let is simmer until rice is done.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Guacamole",
-      "prep_time": "10 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Mash avocado. Chop ½ of an onion, 1 tomato, and cilantro\n(to taste). Juice a lemon or lime. Combine all ingredients\ntogether. Enjoy with chips, spread on a sandwich, in your\nburrito, etc.!\n\n38"
+      "prep time": "10 min.",
+      "ingredients": "Avocado\nLemon or Lime\nOnion\nTomato\nCilantro (if available)\nGarlic Powder\nBlack Pepper",
+      "instructions": "Mash avocado. Chop ½ of an onion, 1 tomato, and cilantro (to taste). Juice a lemon or lime. Combine all ingredients together. Enjoy with chips, spread on a sandwich, in your burrito, etc.!",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Grilled PBBJ",
-      "prep_time": "5 min.",
-      "ingredients": "1",
-      "meal": "dinner",
-      "instructions": "Assemble peanut butter and jelly sandwich like a boss (aka:\ndon't skimp). Slice up a banana inside. Slather outside of\nsandwich with butter and grill in a skillet until golden brown\nand the inside is soft and gooey.\nTip: Eat with a towel for a napkin. Make sure you have\nsome baby wipes on hand for facial cleanup."
+      "prep time": "5 min.",
+      "ingredients": "2 slices of bread\nPeanut butter\n1 banana\nJelly or jam of choice\n1 tbsp butter",
+      "instructions": "Assemble peanut butter and jelly sandwich like a boss (aka: don t skimp). Slice up a banana inside. Slather outside of sandwich with butter and grill in a skillet until golden brown and the inside is soft and gooey.\nTIP: Eat with a towel for a napkin. Make sure you have some baby wipes on hand for facial cleanup.",
+      "servings": "1",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Sautéed Mushrooms",
-      "prep_time": "2 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Either slice the mushrooms or cut them into quarters. Heat\noil in a pan, sauté the mushrooms until soft and cooked\nthrough, about 5 minutes. Once cooked through, add\nbalsamic vinegar and season with salt, pepper and red chili\nto taste.\n\n39"
+      "prep time": "2 min.",
+      "ingredients": "1/2 lb. mushrooms\nSalt, Pepper, Red chili\nBalsamic vinegar (optional)\nOil",
+      "instructions": "Either slice the mushrooms or cut them into quarters. Heat oil in a pan, sauté the mushrooms until soft and cooked through, about 5 minutes. Once cooked through, add balsamic vinegar and season with salt, pepper and red chili to taste.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Sautéed Green Beans",
-      "prep_time": "2 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Bring a pot of water to a boil over high heat. Add the green\nbeans and let cook until barely tender, about 3 to 5 minutes.\nMeanwhile, melt butter in a pan over medium-high heat and\nadd the onions and sauté for 3 minutes.\nDrain the green beans and add to the skillet. Add salt and\npepper to taste and cook 4 to 6 minutes, until the beans are\nalmost done. Then add garlic and sauté for 2 minutes\nwithout letting garlic burn. At this point the green beans\nshould have cooked through. If you are making it with\nalmonds, simply replace the garlic with almonds."
+      "prep time": "2 min.",
+      "ingredients": "1 lb. green beans\n2 garlic cloves\n1/2 small onion\nButter\n1/2 cup almond slices\nSalt and Pepper",
+      "instructions": "Bring a pot of water to a boil over high heat. Add the green beans and let cook until barely tender, about 3 to 5 minutes. Meanwhile, melt butter in a pan over medium-high heat and add the onions and sauté for 3 minutes. Drain the green beans and add to the skillet. Add salt and pepper to taste and cook 4 to 6 minutes, until the beans are almost done. Then add garlic and sauté for 2 minutes without letting garlic burn. At this point the green beans should have cooked through. If you are making it with almonds, simply replace the garlic with almonds.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Sautéed Brussels Sprouts",
-      "prep_time": "10 min.",
-      "ingredients": "3",
-      "meal": "dinner",
-      "instructions": "Heat up skillet over medium high heat.\nCut Brussels sprouts into halves of quarters and in a bowl\ntoss with a generous amount of oil, salt and pepper.\nOnce the pan is hot, add some oil to the pan and put as\nmany sprouts as you can without overcrowding the bottom\n(so all sprouts have full contact with the pan). Cover and\ncook for about 1 minute, then turn over the sprouts to cook\nboth sides evenly. Cover once more and cook for another 12 minutes. Toss the pan once more to shake up the sprouts\nand then cover for another minute..\nRemove from heat and top with minced garlic and some\nmore salt and pepper. Continue cooking other batches until\nall of the sprouts are sautéed.\n40"
+      "prep time": "10 min.",
+      "ingredients": "1/2 lb. Brussels sprouts\n3 tbsp olive oil\n2 garlic cloves\nSalt and Pepper",
+      "instructions": "Heat up skillet over medium high heat. Cut Brussels sprouts into halves of quarters and in a bowl toss with a generous amount of oil, salt and pepper. Once the pan is hot, add some oil to the pan and put as many sprouts as you can without overcrowding the bottom (so all sprouts have full contact with the pan). Cover and cook for about 1 minute, then turn over the sprouts to cook both sides evenly. Cover once more and cook for another 1-2 minutes. Toss the pan once more to shake up the sprouts and then cover for another minute. Remove from heat and top with minced garlic and some more salt and pepper. Continue cooking other batches until all of the sprouts are sautéed.",
+      "servings": "3",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Simple Quinoa Salad",
-      "prep_time": "20 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Cook quinoa according to directions. Meanwhile chop the\nveggies that you’ll be including. Once the quinoa is finished,\nallow to cool for 5 minutes and add veggies.\nAdd olive oil, vinegar and salt to taste"
+      "prep time": "20 min.",
+      "ingredients": "Cooked quinoa\nBlack beans\nBell pepper\nRed onion\nCucumber\nTomato\nAny other raw veggies!\nA sprinkle of flax seeds\nOlive oil\nBalsamic vinegar\nSalt",
+      "instructions": "Cook quinoa according to directions. Meanwhile chop the veggies that you ll be including. Once the quinoa is finished, allow to cool for 5 minutes and add veggies. Add olive oil, vinegar and salt to taste.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Corn and Cilantro Salad",
-      "prep_time": "5 min.",
-      "ingredients": "3-4",
-      "meal": "dinner",
-      "instructions": "Place corn into a pot of salt water and bring to a boil. Cook\nuntil tender, about 5 minutes. Remove and let cool. If\npossible, I like to dip the corn into cold water but not\nnecessary. Using a knife, roughly cut the corn kernels off\nthe cob into a large bowl. Add tomatoes, onions and\ncilantro. Mix well. Add olive oil (about ¼ cup), Red wine\nvinegar (about ½ table spoon), salt and pepper to taste!\nDone.\nTip: Can certainly add jalapeños, lemon, red pepper to the\nmix!\n\n41"
+      "prep time": "5 min.",
+      "ingredients": "5 ears fresh corn\n1 lb. plum tomatoes (depending on your taste and availability)\n1/4 cup finely chopped red onion\n1/4 cup chopped cilantro\nRed wine vinegar",
+      "instructions": "Place corn into a pot of salt water and bring to a boil. Cook until tender, about 5 minutes. Remove and let cool. If possible, I like to dip the corn into cold water but not necessary. Using a knife, roughly cut the corn kernels off the cob into a large bowl. Add tomatoes, onions and cilantro. Mix well. Add olive oil (about ¼ cup), Red wine vinegar (about ½ table spoon), salt and pepper to taste! Done.\nTIP: Can certainly add jalapeños, lemon, red pepper to the mix!",
+      "servings": "3-4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Tuna Pasta",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Put pasta on to cook\nMeanwhile dice onion and brown\nDice tomatoes and leave to side\nHeat sauce with tuna and onion, salt and pepper to taste\nCombine with pasta when cooked and heat gently\nToss fresh tomato through when serving.\nTip: Very cheap and easy meal, normally do a full packet of\npasta to about 4 tins of tuna, 1 onion and 2 tomatoes.\n\nGet a premade jar sauce that has garlic and basil or\nsomething along those lines\n\nRecipe By:\n\nPREP TIME:\n\n42"
+      "prep time": "5 min.",
+      "ingredients": "Pasta of choice\nTins of tuna\nTomato based pasta sauce jar\nSalt and Pepper\nFresh tomatoes\nOnion",
+      "instructions": "Put pasta on to cook. Meanwhile dice onion and brown. Dice tomatoes and leave to side. Heat sauce with tuna and onion, salt and pepper to taste. Combine with pasta when cooked and heat gently. Toss fresh tomato through when serving.\nTIP: Very cheap and easy meal, normally do a full packet of pasta to about 4 tins of tuna, 1 onion and 2 tomatoes. Get a premade jar sauce that has garlic and basil or something along those lines.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
-      "name": "Mexican Rice",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Heat 2 tbsp of olive or canola oil in the pressure cooker\nover medium-high heat.\nAdd the onion, chiles, cumin, oregano, and rice, stirring\nconstantly. Cook for 2 minutes, or until the onion begins to\nsoften. Add the tomatoes and stock and stir to combine.\nLock the lid in place and cook at high pressure for 4\nminutes. Release the pressure and add salt and pepper if\nnecessary."
+      "name": "Mexican Rice (Pressure Cooker)",
+      "prep time": "5 min.",
+      "ingredients": "1/2 cup finely chopped sweet onion (Vidalia)\n2 Chile peppers, finely chopped\n1 tsp ground cumin\n1 tsp dried oregano\n2 cups long-grain white rice\nOne 14.-ounce can fire-roasted chopped tomatoes with juice\n1½ cups chicken broth\nSalt and pepper",
+      "instructions": "Heat 2 tbsp of olive or canola oil in the pressure cooker over medium-high heat. Add the onion, chiles, cumin, oregano, and rice, stirring constantly. Cook for 2 minutes, or until the onion begins to soften. Add the tomatoes and stock and stir to combine. Lock the lid in place and cook at high pressure for 4 minutes. Release the pressure and add salt and pepper if necessary.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Wild Mushroom Risotto",
-      "prep_time": "10 min.",
-      "ingredients": "6",
-      "meal": "dinner",
-      "instructions": "Heat the olive oil in the pressure cooker over medium-high\nheat. Finely chop the shallot and add it to the oil, cook for 2\nminutes. Chop the mushrooms and sage and add them to\nthe pot and cook for 10 to 12 minutes, or until the liquid\nfrom the mushrooms has evaporated. Add the rice and\nwine, bring to a boil, and add the stocks. Lock the lid in\nplace and cook at high pressure for 7 minutes.\nOnce the rice is cooked, release the pressure and remove\nthe lid. Stir in the cheese and olive oil, salt and pepper to\ntaste and enjoy!\n\n44"
+      "prep time": "10 min.",
+      "ingredients": "4 tbsp olive oil\n1 medium shallot\n1 lb. of mushrooms\n2 tsp sage\n1½ cup rice\n1 cup white wine\n3 cups chicken broth or water\n1/2 cup freshly grated Parmigiano-Reggiano cheese\nSalt and Pepper",
+      "instructions": "Heat the olive oil in the pressure cooker over medium-high heat. Finely chop the shallot and add it to the oil, cook for 2 minutes. Chop the mushrooms and sage and add them to the pot and cook for 10 to 12 minutes, or until the liquid from the mushrooms has evaporated. Add the rice and wine, bring to a boil, and add the stocks. Lock the lid in place and cook at high pressure for 7 minutes. Once the rice is cooked, release the pressure and remove the lid. Stir in the cheese and olive oil, salt and pepper to taste and enjoy!",
+      "servings": "6",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Lentil Veggie Mix",
-      "prep_time": "5 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Chop up veggies. Heat up some olive oil in the pressure\ncooker over medium high heat and add the veggies, for\nabout 5 minutes. When the whole mix is softened, add the\nchopped tomatoes and mix well. Sprinkle the salt, pepper\nand curry (about 1 tsp but you can add more later).\n\n1 tbsp olive oil\n1 medium onion\n1 stalk zucchini\n1 medium red or green pepper\n1½ cups chopped tomatoes\n\nSalt and Pepper\nCurry powder\n\nAdd lentils and water according to instructions and mix well.\nClose and lock the lid of the pressure cooker and turn the\nheat up to high for about 5 minutes. After 5 minutes, lower\nthe heat to the minimum required by the cooker to maintain\npressure. Cook for another 10-15 minutes. Release\npressure and season to taste with salt, pepper and curry."
+      "prep time": "5 min.",
+      "ingredients": "1½ cups dry lentils\n1 tbsp olive oil\n1 medium onion\n1 stalk zucchini\n1 medium red or green pepper\n1½ cups chopped tomatoes\nSalt and Pepper\nCurry powder",
+      "instructions": "Chop up veggies. Heat up some olive oil in the pressure cooker over medium high heat and add the veggies, for about 5 minutes. When the whole mix is softened, add the chopped tomatoes and mix well. Sprinkle the salt, pepper and curry (about 1 tsp but you can add more later). Add lentils and water according to instructions and mix well. Close and lock the lid of the pressure cooker and turn the heat up to high for about 5 minutes. After 5 minutes, lower the heat to the minimum required by the cooker to maintain pressure. Cook for another 10-15 minutes. Release pressure and season to taste with salt, pepper and curry.",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Tex-Mex Chili",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Heat 2 tbsp of oil in the pressure cooker over medium-high\nheat. Add the beef and sauté until it is cooked through and\nthen add salt, chile powder, and chopped onion and sauté\nfor 2 more minutes. Next, add the tomato puree, beans, and\nstock and 2 more tbsp of oil.\nLock the lid in place and cook at high pressure for 20\nminutes. Once you release the pressure taste and add chili\npowder, salt and pepper according to taste.\n\n7 cups of beef broth or water\nSalt and Pepper\n\n45"
+      "prep time": "5 min.",
+      "ingredients": "4 tbsp olive oil\n2 lbs. 85/15 ground beef\n1 tsp chili powder\n2 cups sweet onion\nOne 28-oz tomato puree\n1½ cups beans\n7 cups of beef broth or water\nSalt and Pepper",
+      "instructions": "Heat 2 tbsp of oil in the pressure cooker over medium-high heat. Add the beef and sauté until it is cooked through and then add salt, chile powder, and chopped onion and sauté for 2 more minutes. Next, add the tomato puree, beans, and stock and 2 more tbsp of oil. Lock the lid in place and cook at high pressure for 20 minutes. Once you release the pressure taste and add chili powder, salt and pepper according to taste.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Spanish Rice",
-      "prep_time": "5 min.",
-      "ingredients": "4",
-      "meal": "dinner",
-      "instructions": "Heat 2 tbsp olive oil in the pressure cooker over mediumhigh heat. Add the bacon and sauté until crispy or desired\ntexture. Add the onion, bell pepper, and paprika and cook\nfor 3 minutes, or until the onion is softened. Add the rice\nand stir. Add the tomatoes and stock. Lock the lid in place\nand cook at high pressure for 4 minutes. Release the\npressure and remove the lid. Fluff the rice, taste for\nseasoning, and add salt and pepper if necessary."
+      "prep time": "5 min.",
+      "ingredients": "4 bacon strips, cut crosswise into ½” wide pieces\n1/2 cup finely chopped sweet onion (Vidalia)\n1 medium green bell pepper, seeded, finely chopped\n2 tsp Spanish smoked paprika\n2 cups long-grain white rice\nOne 14.-ounce can chopped tomatoes with juice\n1½ cup chicken broth\nSalt and Pepper",
+      "instructions": "Heat 2 tbsp olive oil in the pressure cooker over medium-high heat. Add the bacon and sauté until crispy or desired texture. Add the onion, bell pepper, and paprika and cook for 3 minutes, or until the onion is softened. Add the rice and stir. Add the tomatoes and stock. Lock the lid in place and cook at high pressure for 4 minutes. Release the pressure and remove the lid. Fluff the rice, taste for seasoning, and add salt and pepper if necessary.",
+      "servings": "4",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Pressure Cooker Banana Bread",
-      "prep_time": "10 min.",
-      "ingredients": "6",
-      "meal": "dinner",
-      "instructions": "Mix melted butter into mashed bananas in a pressure-cooker safe mixing\nbowl or container. (We use a round metal bowl.)\n- Mix in sugar, egg, and vanilla.\n- Sprinkle in baking soda and a pinch of salt, mix.\n- Add the flour and stir until well mixed, then add the nuts and stir in.\n- Scrape down sides of bowl and cover with foil, then place bowl in\npressure cooker with a small amount of water in the bottom. (We use the\nsteam tray so that the bowl sits above about 3/4-inch of water.)\n- Cook on high pressure for approximately 40 minutes. Release pressure\nand check the consistency. The bread will be moist, but shouldn't be\ngooey, if it is then bring back up to pressure for a few more minutes.\n-Remove the bowl from the pressure cooker and let cool for a few\nminutes, then the loaf should easily come out of the bowl when tipped\nover.\nTip: This recipe makes a delicious, moist loaf of banana bread without the\nneed for an oven. We've experimented with adding mango and other fruit\nand that works well too, just exchange it for some of the banana.\n\n46"
+      "prep time": "10 min.",
+      "ingredients": "3-4 ripe bananas, smashed\n1 ½ cups all-purpose flour\n1/3 cup melted butter\n½ cup sugar (or less as desired)\n1 egg, beaten\n1 tsp vanilla extract\n1 tsp baking soda\nSalt\n1/2 cup walnuts or pecans, crushed (optional)",
+      "instructions": "Mix melted butter into mashed bananas in a pressure-cooker safe mixing bowl or container. (We use a round metal bowl.) - Mix in sugar, egg, and vanilla. - Sprinkle in baking soda and a pinch of salt, mix. - Add the flour and stir until well mixed, then add the nuts and stir in. - Scrape down sides of bowl and cover with foil, then place bowl in pressure cooker with a small amount of water in the bottom. (We use the steam tray so that the bowl sits above about 3/4-inch of water.) - Cook on high pressure for approximately 40 minutes. Release pressure and check the consistency. The bread will be moist, but shouldn t be gooey, if it is then bring back up to pressure for a few more minutes. -Remove the bowl from the pressure cooker and let cool for a few minutes, then the loaf should easily come out of the bowl when tipped over.\nTIP: This recipe makes a delicious, moist loaf of banana bread without the need for an oven. We ve experimented with adding mango and other fruit and that works well too, just exchange it for some of the banana.",
+      "servings": "6",
+      "meal": "Dessert"
     },
     {
       "name": "Indian Veggie Stew",
-      "prep_time": "15 min.",
-      "ingredients": "2",
-      "meal": "dinner",
-      "instructions": "Soften the onions in olive oil, add the spices (on a very\ngentle heat or they will burn) for a minute. Add all other\ningredients, just cover with water. Cook time is 3 minutes in\nthe pressure cooker. Leave to rest for 10-15 minutes. Then\nopen the lid. Add half a tin of coconut milk (the other half\ngoes in the muesli mix for breakfast) and fresh coriander. In\na conventional pan, cook time is 20-30minutes or so,\ndepending on rice/lentil type.\nTip: Mixture and spices to be played with. Turn the recipe\nMoroccan by omitting coconut milk/rice and lentils and\nadding instead a tin of chickpeas, a handful of raisins and\nMoroccan spices (ground coriander/cinnamon/cumin) and\nserve with no-cook couscous semolina (boiling water to just\ncover the couscous, cover and wait 15 minutes)\n\nRecipe By:\n\nPREP TIME:\n\n47"
+      "prep time": "15 min.",
+      "ingredients": "Vegetables cut to bite size pieces (Any you might like!)\n2 cloves of garlic\n1 or 2 chopped onion\nHandful of rice and/or lentils\nVegetable stock\nOlive oil\nWater to cover\n1/2 can of coconut milk\nFresh coriander (Optional)\nIndian ground spices: (turmeric, cumin, coriander, chilies or shop bought mix)",
+      "instructions": "Soften the onions in olive oil, add the spices (on a very gentle heat or they will burn) for a minute. Add all other ingredients, just cover with water. Cook time is 3 minutes in the pressure cooker. Leave to rest for 10-15 minutes. Then open the lid. Add half a tin of coconut milk (the other half goes in the muesli mix for breakfast) and fresh coriander. In a conventional pan, cook time is 20-30minutes or so, depending on rice/lentil type.\nTIP: Mixture and spices to be played with. Turn the recipe Moroccan by omitting coconut milk/rice and lentils and adding instead a tin of chickpeas, a handful of raisins and Moroccan spices (ground coriander/cinnamon/cumin) and serve with no-cook couscous semolina (boiling water to just cover the couscous, cover and wait 15 minutes).",
+      "servings": "2",
+      "meal": "Lunch and Dinner"
     },
     {
       "name": "Nutella Hot Chocolate",
-      "prep_time": "1 min.",
-      "ingredients": "1",
-      "meal": "snack",
-      "instructions": "Boil water. Stir in hot chocolate powder as your normally\nwould. Get a heaping spoonful of Nutella and stir it in to\nyour hot chocolate, make sure you do this while the water is\nstill nice and hot so it melts in.\nTip: This is ridiculously simple, but I promise it is the\nrichest, tastiest hot chocolate ever and it will lift your spirits\non a rainy day in the van!"
+      "prep time": "1 min.",
+      "ingredients": "Water\nHot chocolate mix\nNutella",
+      "instructions": "Boil water. Stir in hot chocolate powder as your normally would. Get a heaping spoonful of Nutella and stir it in to your hot chocolate, make sure you do this while the water is still nice and hot so it melts in.\nTIP: This is ridiculously simple, but I promise it is the richest, tastiest hot chocolate ever and it will lift your spirits on a rainy day in the van!",
+      "servings": "1",
+      "meal": "Dessert"
     },
     {
-      "name": "Orange Cake'd",
-      "prep_time": "4 min.",
-      "ingredients": "2",
-      "meal": "snack",
-      "instructions": "Cut top off orange\nScoop out orange innards with spoon or other tool\nIn a bowl, mix cake mix + water\nScoop cake batter into empty orange skin until 3/4 full of\nbatter\nFill pot with 1/2 - 1\" of water\nPlace oranges full of cake mix in pot\nPlace pot on stove, turn stove on to medium. Cover and let\nsteam 8ish minutes\nCheck on them, when cake batter is cooked, remove and\neat - the orange flavor will infuse through the cake and you\nget to eat it right out of the orange.\n\n49"
+      "name": "Orange Cake",
+      "prep time": "4 min.",
+      "ingredients": "Oranges (one per person)\nCake mix\nWater",
+      "instructions": "Cut top off orange. Scoop out orange innards with spoon or other tool. In a bowl, mix cake mix + water. Scoop cake batter into empty orange skin until 3/4 full of batter. Fill pot with 1/2 - 1\" of water. Place oranges full of cake mix in pot. Place pot on stove, turn stove on to medium. Cover and let steam 8ish minutes. Check on them, when cake batter is cooked, remove and eat - the orange flavor will infuse through the cake and you get to eat it right out of the orange.",
+      "servings": "2",
+      "meal": "Dessert"
     },
     {
       "name": "Chocolate Banana Sandwich",
-      "prep_time": "5 min.",
-      "ingredients": "1",
-      "meal": "snack",
-      "instructions": "Cut each banana in half lengthwise, only cutting through the\npeel on one side.\nInto the cut you just made, stuff as much candy/chocolate\nas you can/want.\nWrap the bananas in aluminum foil and place over medium\ncoals and grill on each side for 7 minutes.\nOnce they are done, carefully unwrap the banana and use\nthe peal as a bowl, scooping the banana and chocolate with\na spoon."
+      "prep time": "5 min.",
+      "ingredients": "Banana\nChocolate or Candy Bar (Snickers/Reeses…)",
+      "instructions": "Cut each banana in half lengthwise, only cutting through the peel on one side. Into the cut you just made, stuff as much candy/chocolate as you can/want. Wrap the bananas in aluminum foil and place over medium coals and grill on each side for 7 minutes. Once they are done, carefully unwrap the banana and use the peal as a bowl, scooping the banana and chocolate with a spoon.",
+      "servings": "1",
+      "meal": "Dessert"
     },
     {
       "name": "Grilled Nutella Banana Sando",
-      "prep_time": "5 min.",
-      "ingredients": "1",
-      "meal": "snack",
-      "instructions": "Heat a skillet over medium heat. In the meantime, spread a\ngenerous amount of coconut oil or butter on one side of\neach of the pieces of bread. On the other side of each slice,\nspread Nutella and lay sliced bananas on one of the two\npieces. Fold the bread together to get your sandwich.\nOnce the skillet is hot, press the sandwich down and toast\nfor about 2-4 min. Flip and repeat. Repeat until desired\ncrispiness is achieved.\nTip: Feel free to add strawberries or peanut butter.\n\n50"
+      "prep time": "5 min.",
+      "ingredients": "2 slices of bread (we recommend Rustic wheat)\nNutella\nBanana\nButter but Coconut oil is even better!",
+      "instructions": "Heat a skillet over medium heat. In the meantime, spread a generous amount of coconut oil or butter on one side of each of the pieces of bread. On the other side of each slice, spread Nutella and lay sliced bananas on one of the two pieces. Fold the bread together to get your sandwich. Once the skillet is hot, press the sandwich down and toast for about 2-4 min. Flip and repeat. Repeat until desired crispiness is achieved.\nTIP: Feel free to add strawberries or peanut butter.",
+      "servings": "1",
+      "meal": "Dessert"
     }
   ]
 }

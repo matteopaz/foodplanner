@@ -6,6 +6,7 @@ export interface Recipe {
   prepTime: string
   ingredients: string[]
   meal: MealType
+  servings: number
   instructions: string
 }
 
@@ -16,9 +17,19 @@ export type MealPlan = Record<string, DayPlan>
 export interface RawImportedRecipe {
   name?: unknown
   prep_time?: unknown
+  'prep time'?: unknown
+  prepTime?: unknown
   ingredients?: unknown
   meal?: unknown
+  'meal type'?: unknown
+  meal_type?: unknown
+  course?: unknown
+  category?: unknown
+  servings?: unknown
   instructions?: unknown
+  instruction?: unknown
+  directions?: unknown
+  method?: unknown
 }
 
 export interface RecipeImportPayload {
@@ -30,6 +41,7 @@ export interface ImportedRecipe {
   prep_time: string
   ingredients: string[]
   meal: MealType
+  servings: number
   instructions: string
 }
 

@@ -52,6 +52,7 @@ interface RecipeDraft {
   name: string
   prepTime: string
   meal: MealType
+  servings: string
   ingredientsText: string
   instructions: string
 }
@@ -95,6 +96,7 @@ function App() {
         prepTime: recipe.prep_time.trim(),
         ingredients: recipe.ingredients.map((ingredient) => ingredient.trim()),
         meal: recipe.meal,
+        servings: recipe.servings,
         instructions: recipe.instructions.trim(),
       }))
 
@@ -103,6 +105,28 @@ function App() {
 
     window.localStorage.setItem(DEFAULT_SEED_KEY, 'true')
   }, [recipes.length, setRecipes])
+
+  useEffect(() => {
+    if (!recipes.length) return
+    let mutated = false
+    const upgraded = recipes.map((recipe) => {
+      const normalized = normalizeServings(
+        (recipe as Recipe & { servings?: unknown }).servings,
+      )
+      if (normalized == null) {
+        mutated = true
+        return { ...recipe, servings: 1 }
+      }
+      if (normalized !== recipe.servings) {
+        mutated = true
+        return { ...recipe, servings: normalized }
+      }
+      return recipe
+    })
+    if (mutated) {
+      setRecipes(upgraded)
+    }
+  }, [recipes, setRecipes])
 
   const tabMeta: Record<ViewKey, { label: string; description: string }> = useMemo(
     () => ({
@@ -149,6 +173,7 @@ function App() {
           prepTime: recipe.prep_time.trim(),
           ingredients: recipe.ingredients.map((ingredient) => ingredient.trim()),
           meal: recipe.meal,
+          servings: recipe.servings,
           instructions: recipe.instructions.trim(),
         }))
 
@@ -169,6 +194,37 @@ function App() {
       })
     } finally {
       event.target.value = ''
+    }
+  }
+
+  const handleExportRecipes = () => {
+    if (!recipes.length) return
+    if (typeof window === 'undefined' || typeof document === 'undefined') return
+    try {
+      const payload = {
+        recipes: recipes.map((recipe) => ({
+          name: recipe.name,
+          prep_time: recipe.prepTime,
+          meal: recipe.meal,
+          servings: recipe.servings,
+          ingredients: [...recipe.ingredients],
+          instructions: recipe.instructions,
+        })),
+      }
+      const blob = new Blob([JSON.stringify(payload, null, 2)], {
+        type: 'application/json',
+      })
+      const url = URL.createObjectURL(blob)
+      const link = document.createElement('a')
+      const dateStamp = new Date().toISOString().slice(0, 10)
+      link.href = url
+      link.download = `foodplanner-recipes-${dateStamp}.json`
+      document.body.appendChild(link)
+      link.click()
+      document.body.removeChild(link)
+      window.setTimeout(() => URL.revokeObjectURL(url), 0)
+    } catch (error) {
+      console.error('Export failed', error)
     }
   }
 
@@ -295,6 +351,7 @@ function App() {
           <RecipesPanel
             recipes={recipes}
             onFileChange={handleImport}
+            onExport={handleExportRecipes}
             importFeedback={importFeedback}
             onCreateRecipe={handleCreateRecipe}
             onUpdateRecipe={handleUpdateRecipe}
@@ -328,19 +385,10 @@ function PlannerPanel({
 
   const week = useMemo(() => weekDates(anchor), [anchor])
 
-  const recipesByMeal = useMemo(() => {
-    const base: Record<MealType, Recipe[]> = {
-      breakfast: [],
-      lunch: [],
-      dinner: [],
-      snack: [],
-    }
-    recipes.forEach((recipe) => {
-      base[recipe.meal].push(recipe)
-    })
-    MEAL_TYPES.forEach((meal) => base[meal].sort((a, b) => a.name.localeCompare(b.name)))
-    return base
-  }, [recipes])
+  const sortedRecipes = useMemo(
+    () => [...recipes].sort((a, b) => a.name.localeCompare(b.name)),
+    [recipes],
+  )
 
   const recipeIndex = useMemo(
     () => new Map(recipes.map((recipe) => [recipe.id, recipe])),
@@ -470,8 +518,7 @@ function PlannerPanel({
                 {MEAL_TYPES.map((meal) => {
                   const assignedId = day?.[meal] ?? null
                   const assignedRecipe = assignedId ? recipeIndex.get(assignedId) : undefined
-                  const mealRecipes = recipesByMeal[meal]
-                  const hasRecipes = mealRecipes.length > 0
+                  const hasRecipes = sortedRecipes.length > 0
                   return (
                     <div key={meal} className="meal-slot">
                       <div className="meal-slot-header">
@@ -488,9 +535,7 @@ function PlannerPanel({
                             Add meal
                           </button>
                           <p className="muted text-small">
-                            {hasRecipes
-                              ? `No ${meal} planned yet.`
-                              : `No ${meal} recipes yet.`}
+                            {hasRecipes ? `No ${meal} planned yet.` : 'No recipes yet.'}
                           </p>
                         </>
                       )}
@@ -498,7 +543,10 @@ function PlannerPanel({
                         <div className="meal-assignment">
                           <div className="meal-assignment-info">
                             <strong>{assignedRecipe.name}</strong>
-                            <span className="muted text-small">{assignedRecipe.prepTime}</span>
+                            <span className="muted text-small">
+                              Serves {formatServings(assignedRecipe.servings)} ·{' '}
+                              {assignedRecipe.prepTime}
+                            </span>
                           </div>
                           <button
                             type="button"
@@ -522,7 +570,7 @@ function PlannerPanel({
         <MealPicker
           date={activeSlot.date}
           meal={activeSlot.meal}
-          recipes={recipesByMeal[activeSlot.meal]}
+          recipes={sortedRecipes}
           assignedId={mealPlan[activeSlot.date]?.[activeSlot.meal] ?? null}
           onSelect={handleSelectFromPicker}
           onClose={handleClosePicker}
@@ -576,14 +624,17 @@ function MealPicker({ date, meal, recipes, assignedId, onSelect, onClose }: Meal
                   onClick={() => onSelect(recipe.id)}
                 >
                   <span className="meal-picker-option-name">{recipe.name}</span>
-                  <span className="meal-picker-option-meta">{recipe.prepTime}</span>
+                  <span className="meal-picker-option-meta">
+                    Serves {formatServings(recipe.servings)} · {capitalizeMeal(recipe.meal)} ·{' '}
+                    {recipe.prepTime}
+                  </span>
                 </button>
               </li>
             ))}
           </ul>
         ) : (
           <p className="meal-picker-empty">
-            You have no {meal} recipes yet. Visit the recipe library to add some.
+            You have no recipes yet. Visit the recipe library to add some.
           </p>
         )}
       </div>
@@ -805,7 +856,9 @@ function OverviewPanel({ recipes, mealPlan }: OverviewPanelProps) {
                           <span className="tag">{capitalizeMeal(meal)}</span>
                           <div>
                             <p>{recipe.name}</p>
-                            <p className="muted text-small">{recipe.prepTime}</p>
+                            <p className="muted text-small">
+                              Serves {formatServings(recipe.servings)} · {recipe.prepTime}
+                            </p>
                           </div>
                         </li>
                       ))}
@@ -823,7 +876,8 @@ function OverviewPanel({ recipes, mealPlan }: OverviewPanelProps) {
                     <header>
                       <h4>{recipe.name}</h4>
                       <span className="muted text-small">
-                        {capitalizeMeal(recipe.meal)} · {recipe.prepTime}
+                        Serves {formatServings(recipe.servings)} · {capitalizeMeal(recipe.meal)} ·{' '}
+                        {recipe.prepTime}
                       </span>
                     </header>
                     <div>
@@ -862,6 +916,7 @@ function OverviewPanel({ recipes, mealPlan }: OverviewPanelProps) {
 interface RecipesPanelProps {
   recipes: Recipe[]
   onFileChange: (event: ChangeEvent<HTMLInputElement>) => void
+  onExport: () => void
   importFeedback: ImportFeedback
   onCreateRecipe: (input: RecipeDraftInput) => Recipe
   onUpdateRecipe: (id: string, input: RecipeDraftInput) => Recipe | null
@@ -873,6 +928,7 @@ interface RecipesPanelProps {
 function RecipesPanel({
   recipes,
   onFileChange,
+  onExport,
   importFeedback,
   onCreateRecipe,
   onUpdateRecipe,
@@ -971,32 +1027,40 @@ function RecipesPanel({
   return (
     <div className="recipes-panel">
       <section className="library">
-          <div className="import-panel">
-            <label className="button-primary" htmlFor="recipe-upload">
-              ⬆️ Upload JSON
-            </label>
-            <input
-              id="recipe-upload"
-              type="file"
-              accept="application/json"
-              onChange={onFileChange}
-              style={{ display: 'none' }}
-            />
-            <p className="muted text-small">
-              Provide a file with a <code>recipes</code> array (name, meal, ingredients, prep_time,
-              instructions).
-            </p>
-            {importFeedback.tone !== 'idle' && (
-              <div
-                className={`notice ${
-                  importFeedback.tone === 'error' ? 'notice-error' : 'notice-success'
-                }`}
-                role={importFeedback.tone === 'error' ? 'alert' : 'status'}
-              >
-                <span>{importFeedback.message}</span>
-                <button type="button" className="link-button" onClick={onResetImportFeedback}>
-                  Dismiss
-                </button>
+        <div className="import-panel">
+          <label className="button-primary" htmlFor="recipe-upload">
+            ⬆️ Upload JSON
+          </label>
+          <button
+            type="button"
+            className="button-ghost"
+            onClick={onExport}
+            disabled={!recipes.length}
+          >
+            ⬇️ Export recipes
+          </button>
+          <input
+            id="recipe-upload"
+            type="file"
+            accept="application/json"
+            onChange={onFileChange}
+            style={{ display: 'none' }}
+          />
+          <p className="muted text-small">
+            Provide a file with a <code>recipes</code> array (name, meal, servings, ingredients,
+            prep_time, instructions).
+          </p>
+          {importFeedback.tone !== 'idle' && (
+            <div
+              className={`notice ${
+                importFeedback.tone === 'error' ? 'notice-error' : 'notice-success'
+              }`}
+              role={importFeedback.tone === 'error' ? 'alert' : 'status'}
+            >
+              <span>{importFeedback.message}</span>
+              <button type="button" className="link-button" onClick={onResetImportFeedback}>
+                Dismiss
+              </button>
             </div>
           )}
         </div>
@@ -1028,7 +1092,8 @@ function RecipesPanel({
             >
               <span>{recipe.name}</span>
               <span className="muted text-small">
-                {capitalizeMeal(recipe.meal)} · {recipe.prepTime}
+                Serves {formatServings(recipe.servings)} · {capitalizeMeal(recipe.meal)} ·{' '}
+                {recipe.prepTime}
               </span>
             </button>
           ))}
@@ -1074,6 +1139,20 @@ function RecipesPanel({
                   </option>
                 ))}
               </select>
+            </div>
+            <div className="input-group">
+              <label htmlFor="recipe-servings">Servings</label>
+              <input
+                id="recipe-servings"
+                type="number"
+                min="1"
+                step="any"
+                className="text-input"
+                value={draft.servings}
+                onChange={(event) => handleDraftChange('servings')(event.target.value)}
+                placeholder="4"
+                required
+              />
             </div>
             <div className="input-group">
               <label htmlFor="recipe-prep">Prep time</label>
@@ -1193,42 +1272,126 @@ function normalizeImportedIngredients(raw: unknown): string[] {
   return []
 }
 
+function normalizeServings(raw: unknown): number | null {
+  if (typeof raw === 'number') {
+    if (!Number.isFinite(raw) || raw <= 0) {
+      return null
+    }
+    return Number.parseFloat(raw.toFixed(2))
+  }
+
+  if (typeof raw === 'string') {
+    const trimmed = raw.trim()
+    if (!trimmed) {
+      return null
+    }
+    const numeric = Number.parseFloat(trimmed)
+    if (!Number.isFinite(numeric) || numeric <= 0) {
+      return null
+    }
+    return Number.parseFloat(numeric.toFixed(2))
+  }
+
+  return null
+}
+
+function normalizeFieldKey(key: string) {
+  return key.toLowerCase().replace(/[\s_-]+/g, '')
+}
+
+function createFlexibleFieldLookup(source: Record<string, unknown>) {
+  // Collapse variations like "prep time" vs "prep_time" into a consistent lookup.
+  const lookup = new Map<string, unknown>()
+  Object.entries(source).forEach(([key, value]) => {
+    if (!key) return
+    const normalized = normalizeFieldKey(key)
+    if (!lookup.has(normalized)) {
+      lookup.set(normalized, value)
+    }
+  })
+  return lookup
+}
+
+function pickStringField(lookup: Map<string, unknown>, keys: string[]): string | null {
+  for (const key of keys) {
+    const value = lookup.get(normalizeFieldKey(key))
+    if (typeof value === 'string') {
+      const trimmed = value.trim()
+      if (trimmed) {
+        return trimmed
+      }
+    }
+  }
+  return null
+}
+
+function normalizeMealTypeField(raw: string | null): MealType | null {
+  if (!raw) return null
+  const value = raw.trim().toLowerCase()
+  if (!value) return null
+  if (value === 'breakfast' || value.includes('breakfast')) {
+    return 'breakfast'
+  }
+  if (value === 'snack' || value.includes('snack')) {
+    return 'snack'
+  }
+  if (value.includes('dessert') || value.includes('sweet') || value.includes('treat')) {
+    return 'snack'
+  }
+  if (value === 'lunch' || (value.includes('lunch') && !value.includes('dinner'))) {
+    return 'lunch'
+  }
+  if (value.includes('dinner') || value.includes('supper')) {
+    return 'dinner'
+  }
+  return null
+}
+
 function validateImportedRecipes(payload: RecipeImportPayload): ImportedRecipe[] {
   if (!payload || !Array.isArray(payload.recipes)) {
     return []
   }
 
-  const validMeals = new Set(MEAL_TYPES)
-
   return payload.recipes
     .map((candidate) => {
-      if (!candidate || typeof candidate !== 'object') return null
+      if (!candidate || typeof candidate !== 'object') {
+        return null
+      }
 
-      const raw = candidate as RawImportedRecipe
+      const lookup = createFlexibleFieldLookup(candidate as Record<string, unknown>)
+      const name = pickStringField(lookup, ['name'])
+      const prepTime = pickStringField(lookup, ['prep_time', 'prep time', 'preptime'])
+      const instructions = pickStringField(lookup, [
+        'instructions',
+        'instruction',
+        'directions',
+        'method',
+      ])
+      const meal = normalizeMealTypeField(
+        pickStringField(lookup, ['meal', 'meal type', 'meal_type', 'course', 'category']),
+      )
+      const ingredientsRaw = lookup.get(normalizeFieldKey('ingredients'))
+      const ingredients = normalizeImportedIngredients(ingredientsRaw)
+      const servings = normalizeServings(lookup.get(normalizeFieldKey('servings')))
+
       if (
-        typeof raw.name !== 'string' ||
-        typeof raw.prep_time !== 'string' ||
-        typeof raw.instructions !== 'string' ||
-        typeof raw.meal !== 'string'
+        !name ||
+        !prepTime ||
+        !instructions ||
+        !meal ||
+        !ingredients.length ||
+        servings == null
       ) {
         return null
       }
 
-      if (!validMeals.has(raw.meal as MealType)) {
-        return null
-      }
-
-      const ingredients = normalizeImportedIngredients(raw.ingredients)
-      if (!ingredients.length) {
-        return null
-      }
-
       return {
-        name: raw.name,
-        prep_time: raw.prep_time,
-        instructions: raw.instructions,
-        meal: raw.meal as MealType,
+        name,
+        prep_time: prepTime,
+        instructions,
+        meal,
         ingredients,
+        servings,
       }
     })
     .filter((recipe): recipe is ImportedRecipe => recipe != null)
@@ -1245,6 +1408,15 @@ function getDefaultWeekAnchor() {
 
 function capitalizeMeal(meal: MealType) {
   return meal.charAt(0).toUpperCase() + meal.slice(1)
+}
+
+function formatServings(value: number) {
+  if (!Number.isFinite(value)) return '—'
+  const rounded = Number.parseFloat(value.toFixed(2))
+  if (Number.isInteger(rounded)) {
+    return String(rounded)
+  }
+  return rounded.toString()
 }
 
 function toTitleCase(value: string) {
@@ -1361,6 +1533,7 @@ function createEmptyDraft(): RecipeDraft {
     name: '',
     prepTime: '',
     meal: 'breakfast',
+    servings: '',
     ingredientsText: '',
     instructions: '',
   }
@@ -1372,6 +1545,7 @@ function recipeToDraft(recipe: Recipe): RecipeDraft {
     name: recipe.name,
     prepTime: recipe.prepTime,
     meal: recipe.meal,
+    servings: String(recipe.servings),
     ingredientsText: recipe.ingredients.join('\n'),
     instructions: recipe.instructions,
   }
@@ -1387,6 +1561,7 @@ function draftToInput(draft: RecipeDraft): RecipeDraftInput {
     name: draft.name.trim(),
     meal: draft.meal,
     prepTime: draft.prepTime.trim(),
+    servings: Number.parseFloat(draft.servings),
     ingredients,
     instructions: draft.instructions.trim(),
   }
@@ -1394,6 +1569,11 @@ function draftToInput(draft: RecipeDraft): RecipeDraftInput {
 
 function validateDraft(draft: RecipeDraft) {
   if (!draft.name.trim()) return 'Please provide a recipe name.'
+  if (!draft.servings.trim()) return 'Specify how many servings this recipe makes.'
+  const servingsValue = Number.parseFloat(draft.servings)
+  if (!Number.isFinite(servingsValue) || servingsValue <= 0) {
+    return 'Servings must be a positive number.'
+  }
   if (!draft.ingredientsText.trim()) return 'List at least one ingredient.'
   if (!draft.instructions.trim()) return 'Include preparation instructions.'
   return null
